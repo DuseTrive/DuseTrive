@@ -12,7 +12,16 @@
 </a>
 </h3 align="right"> Social Media: </h3>
 </h1>    
-<h3 align="left">👋 👋 Hi there! I'm Sahan, a tech enthusiast on a mission to conquer the digital world using my expertise in AI, cyber, and cloud computing. Join me on my quest to bring light to the darkness of cyberspace! 🌟 If I described my self in five words, I am an <br>🤔enthusiastic, <br>🤝Knowledge-seeking, <br>💡Brainstorming, <br>👍Easygoing, <br>🚀Radical thinker</h3>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex-basis: 50%;">
+     <img align= right src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Image description">
+  </div>
+  <div style="flex-basis: 50%;">
+    <p><h3 align="left">👋 👋 Hi there! I'm Sahan, a tech enthusiast on a mission to conquer the digital world using my expertise in AI, cyber, and cloud computing. Join me on my quest to bring light to the darkness of cyberspace! 🌟 If I described my self in five words, I am an <br><br>&nbsp;&nbsp;🤔&nbsp;&nbsp;enthusiastic, <br>&nbsp;&nbsp;🤝&nbsp;&nbsp;Knowledge-seeking, <br>&nbsp;&nbsp;💡&nbsp;&nbsp;Brainstorming, <br>&nbsp;&nbsp;👍&nbsp;&nbsp;Easygoing, <br>&nbsp;&nbsp;🚀&nbsp;&nbsp;Radical thinker</h3></p>
+  </div>
+</div>
+<br><br><br>
 
 # 👨‍💻 Projects
 ## 🛠️     IT and System Builds
