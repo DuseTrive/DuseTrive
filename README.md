@@ -15,13 +15,22 @@
 <h3 align="left">👋 👋 Hi there! I'm Sahan, a tech enthusiast on a mission to conquer the digital world using my expertise in AI, cyber, and cloud computing. Join me on my quest to bring light to the darkness of cyberspace! 🌟 If I described my self in five words, I am an <br>🤔enthusiastic, <br>🤝Knowledge-seeking, <br>💡Brainstorming, <br>👍Easygoing, <br>🚀Radical thinker</h3>
 
 # 👨‍💻 Projects
-## 🛠️ IT and System Builds
+## 🛠️     IT and System Builds
 <ul>
   <a href="https://medium.com/@sahanwije/deploying-traditional-active-directory-in-azure-9314166433a0" target="_blank">
     <li> Deploying Traditional Active Directory in Azure </li> </a>
   </ul>
 
+# 🏆 Cetifications 
 
+
+# 🥇🥈🥉 Achivements 
+## TryHackMe
+## HackTheBox
+## HackerRank
+## Microsoft
+## Google
+## Blue Team Labs online 
 
 
 # 💻 Tech Stack:
