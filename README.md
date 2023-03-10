@@ -27,11 +27,11 @@
 # 🥇🥈🥉 Achivements 
 ## <p> &nbsp;&nbsp; <img width= 2% src= "https://tryhackme-images.s3.amazonaws.com/room-icons/e75903ecb45ecd77c5635918f87e1a08.png"> TryHackMe </p>
 ## <p> &nbsp;&nbsp; <img width= 2% src= "https://static-00.iconduck.com/assets.00/hack-the-box-icon-512x512-pokr8xc5.png"> HackTheBox </p>
-## <p> &nbsp;&nbsp; <img width= 2% src= "[https://tryhackme-images.s3.amazonaws.com/room-icons/e75903ecb45ecd77c5635918f87e1a08.png](https://en.wikipedia.org/wiki/HackerRank#/media/File:HackerRank_Icon-1000px.png)"> HackerRank </p>
-## <p> &nbsp;&nbsp; <img width= 2% src= "https://tryhackme-images.s3.amazonaws.com/room-icons/e75903ecb45ecd77c5635918f87e1a08.png">Microsoft </p>
-## <p> &nbsp;&nbsp; <img width= 2% src= "https://tryhackme-images.s3.amazonaws.com/room-icons/e75903ecb45ecd77c5635918f87e1a08.png">Google </p>
-## <p> &nbsp;&nbsp; <img width= 2% src= "https://tryhackme-images.s3.amazonaws.com/room-icons/e75903ecb45ecd77c5635918f87e1a08.png">Blue Team Labs online </p> 
-## <p> &nbsp;&nbsp; <img width= 2% src= "https://tryhackme-images.s3.amazonaws.com/room-icons/e75903ecb45ecd77c5635918f87e1a08.png"> PicoCTF </p>
+## <p> &nbsp;&nbsp; <img width= 2% src= "https://en.wikipedia.org/wiki/HackerRank#/media/File:HackerRank_Icon-1000px.png"> HackerRank </p>
+## <p> &nbsp;&nbsp; <img width= 2% src= "https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png"> Microsoft  </p>
+## <p> &nbsp;&nbsp; <img width= 2% src= "https://cyclr.com/wp-content/uploads/2022/05/ext-2.png"> Google </p>
+## <p> &nbsp;&nbsp; <img width= 2% src= "https://blueteamlabs.online/images/logo.png"> Blue Team Labs online </p> 
+## <p> &nbsp;&nbsp; <img width= 2% src= "https://avatars.githubusercontent.com/u/5315773?s=280&v=4"> PicoCTF </p>
 
 
 # 💻 Tech Stack:
