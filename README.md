@@ -10,16 +10,17 @@
 <a href= "https://www.linkedin.com/in/thisara-wijesooriya-03b304162/" target=_blank title="My Linkedin Profile">
 <img align="right" width= 2% src="https://user-images.githubusercontent.com/78523790/224313888-08948316-a0b4-4b5e-afe9-73879d7b0287.png">
 </a>
-</h3 align="right"> Social Media: </h3>
 </h1>    
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex-basis: 47%;">
      <img align=right src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   </div>
-  <div style="flex-basis: 47%;">
-    <p><h3 align="left"> I'm an avid 💻 tech enthusiast, driven to conquer the digital world using my expertise in 🤖 artificial intelligence , 🔒 cyber security, and ☁️ cloud computing. Follow me on my quest to illuminate the depths of cyberspace and push the limits of technology! In five words, I would describe myself as ,<br><br>&nbsp;&nbsp;🤔&nbsp;&nbsp;Innovative, <br><br>&nbsp;&nbsp;🤝&nbsp;&nbsp;Knowledge-seeking, <br><br>&nbsp;&nbsp;💡&nbsp;&nbsp;Brainstorming, <br><br>&nbsp;&nbsp;👍&nbsp;&nbsp;Determined, <br><br>&nbsp;&nbsp;🚀&nbsp;&nbsp;Radical thinker</h3></p>
-  </div>
+  
+  <div style="flex-basis: 47%; text-align: justify;">
+  <p style="text-align: right;">
+    <h3 align="left">I'm an avid 💻 tech enthusiast, driven to conquer the digital world using my expertise in 🤖 artificial intelligence, 🔒 cyber security, and ☁️ cloud computing. Follow me on my quest to illuminate the depths of cyberspace and push the limits of technology! In five words, I would describe myself as:<br><br>&nbsp;&nbsp;🤔&nbsp;&nbsp;Innovative,<br><br>&nbsp;&nbsp;🤝&nbsp;&nbsp;Knowledge-seeking,<br><br>&nbsp;&nbsp;💡&nbsp;&nbsp;Brainstorming,<br><br>&nbsp;&nbsp;👍&nbsp;&nbsp;Determined,<br><br>&nbsp;&nbsp;🚀&nbsp;&nbsp;Radical thinker</h3>
+  </p>
 </div>
 <br>
 
