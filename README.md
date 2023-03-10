@@ -17,7 +17,7 @@
 # 👨‍💻 Projects
 ## 🛠️ IT and System Builds
 <ul>
-  <a href = "https://medium.com/@sahanwije/deploying-traditional-active-directory-in-azure-9314166433a0" target="_blank" title= "Medium Blog">
+  <a href="https://medium.com/@sahanwije/deploying-traditional-active-directory-in-azure-9314166433a0" target="_blank">
     <li> Deploying Traditional Active Directory in Azure </li> </a>
   </ul>
 
