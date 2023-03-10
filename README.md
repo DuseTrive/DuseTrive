@@ -20,13 +20,10 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-<a href="https://github.com/vivek9patel">
+<a href="https://github.com/DuseTrive">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuseTrive&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DuseTrive&theme=midnight-purple&hide_border=false"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuseTrive&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compac&hide_progress=true">	
-</a>
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuseTrive&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compac&hide_progress=true"/>
+</a></p>
 
 
 
