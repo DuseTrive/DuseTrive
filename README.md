@@ -22,12 +22,13 @@
 <br>
 
 # 👨‍💻 Projects
+<details open>
 ## 🛠️     IT and System Builds
 <ul>
   <a href="https://medium.com/@sahanwije/deploying-traditional-active-directory-in-azure-9314166433a0" target="_blank">
     <li> Deploying Traditional Active Directory in Azure </li> </a>
   </ul>
-
+</details>
 # 🏆 Cetifications 
 
 
@@ -48,8 +49,8 @@
 
 <p align="center">
 <a href="https://github.com/DuseTrive">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuseTrive&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuseTrive&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compac&hide_progress=true"/>
+  <img width=50% src="https://github-readme-stats.vercel.app/api?username=DuseTrive&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuseTrive&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&hide_progress=true"/>
 </a></p>
 
 
