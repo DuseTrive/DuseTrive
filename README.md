@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sahan
   
-<a href= "https://twitter.com/DuseTrive" target=_blank rel="noopener noreferrer"  title="My Twitter Profile">
+<a href="https://twitter.com/DuseTrive" target="_blank" rel="noopener noreferrer" title="My Twitter Profile">
 <img align="right" width= 47px src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png">
 </a>
 <a href= "https://www.linkedin.com/in/thisara-wijesooriya-03b304162/" rel="noopener noreferrer"  target=_blank title="My Linkedin Profile">
