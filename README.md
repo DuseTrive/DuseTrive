@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sahan
   
 <a href= "https://medium.com/@sahanwije" target=_blank title="My Medium Profile">
-<img align="right" width= 2% src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png">
+<img align="right" width= 48[px src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png">
 </a>
   
 <a href= "https://twitter.com/DuseTrive" target=_blank title="My Twitter Profile">
