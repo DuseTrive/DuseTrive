@@ -1,15 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Sahan
   
-<a href= "https://medium.com/@sahanwije" target=_blank title="My Medium Profile">
-<img align="right" width= 48[px src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png">
-</a>
-  
 <a href= "https://twitter.com/DuseTrive" target=_blank title="My Twitter Profile">
-<img align="right" width= 2% src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png">
+<img align="right" width= 47px src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png">
 </a>
 <a href= "https://www.linkedin.com/in/thisara-wijesooriya-03b304162/" target=_blank title="My Linkedin Profile">
-<img align="right" width= 2% src="https://user-images.githubusercontent.com/78523790/224313888-08948316-a0b4-4b5e-afe9-73879d7b0287.png">
+<img align="right" width= 47px src="https://user-images.githubusercontent.com/78523790/224313888-08948316-a0b4-4b5e-afe9-73879d7b0287.png">
 </a>
 </h1>    
 
