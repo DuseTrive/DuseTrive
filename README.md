@@ -1,5 +1,9 @@
 <!--Heading matrix-->
 
+<p align="Center">
+<img width=100% src="https://github.com/DuseTrive/DuseTrive/blob/main/Add%20a%20heading.gif">
+</p>
+
 
 <!-- Readme typing SVg- https://git.io/typing-svg -->
 <!-- Koodos to DenverCoder1-->
