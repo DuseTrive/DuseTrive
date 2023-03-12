@@ -24,3 +24,40 @@
 
 </p>
 
+<!--About me section- generated using CHATRGPT-->
+## 🙋‍♂️ About me
+
+As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutions and knowledge. With my unwavering determination and radical thinking, I excel at brainstorming and exploring new, fantastical ideas. I approach challenges with boundless enthusiasm and relish the opportunity to share my passion with others through exceptional communication skills.
+
+<!--project section-->
+<details>
+  <summary><h2>📘 My Top Projects</h2></summary>
+  <details> 
+    <summary><h3>&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 IT and System Builds</h3></summary>
+    <blockquote><p>Here, you'll find some of my most exciting IT and system builds, where I've implemented cutting-edge technologies to create powerful and efficient systems. 💻🛠️</p>
+  </details>
+  <details> 
+    <summary><h3>&nbsp;&nbsp;&nbsp;&nbsp;🧠 AI Developments</h3></summary>
+    <blockquote><p>This section showcases some of my latest AI developments, including machine learning models and computer vision applications that are changing the way we interact with technology. 🤖🧠</p>
+  </details>
+  <details> 
+    <summary><h3>&nbsp;&nbsp;&nbsp;&nbsp;🕵️‍♂️ Blue Team Investigations</h3></summary>
+    <blockquote><p>Here, I'll take you through some of my most exciting investigations where I've used my skills in cybersecurity to protect businesses from malicious attacks and help them build robust security systems. 🔒🛡️</p>
+  </details>
+  <details> 
+    <summary><h3>&nbsp;&nbsp;&nbsp;&nbsp;🔴 Red Team Investigations</h3></summary>
+    <blockquote><p>Take a look at some of my most challenging red team investigations where I've simulated cyber attacks to test the security of organizations and help them identify vulnerabilities. 🚨🔍</p>
+  </details>
+  <details> 
+    <summary><h3>&nbsp;&nbsp;&nbsp;&nbsp;🤖 Scripts</h3></summary>
+    <blockquote><p>Check out this section to see some of my most useful scripts, from automation tools to data parsing and manipulation scripts that help streamline processes and increase efficiency. 🚀📜</p>
+  </details>
+  <details> 
+    <summary><h3>&nbsp;&nbsp;&nbsp;&nbsp;🔮 Other</h3></summary>
+    <blockquote><p>Finally, this section contains some of my miscellaneous projects, including some experimental and innovative ideas that push the boundaries of what's possible with technology. 🌟💡</p>
+      
+  </details>
+</details>
+
+
+
