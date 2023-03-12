@@ -43,13 +43,13 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     <!-- IT builds sub -->
     <summary><h3>&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 IT and System Builds</h3></summary>
     <blockquote><p>Here, you'll find some of my most exciting IT and system builds, where I've implemented cutting-edge technologies to create powerful and efficient systems. 💻🛠️</p></blockquote>
-    <p>
       <!-- add cloud, os and other similar in here--> 
-      <p>
-      <a href="https://github.com/DuseTrive/IT-and-System-Builds-/tree/main/Deploying%20Traditional%20Active%20Directory%20in%20Azure">
-        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=IT-and-System-Builds-=dark" alt="Deploting-traditional-ad-in-azure"></a>
       
-    </p>
+      <a href="https://github.com/DuseTrive/Deploying-Traditional-Active-Directory-in-Azure">
+        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Deploying-Traditional-Active-Directory-in-Azure&theme=dark" alt="Deploting-traditional-ad-in-azure"></a>
+      
+    
+    
   </details>
   <details> 
     <!-- AI developing project -->
