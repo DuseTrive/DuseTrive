@@ -1,81 +1,22 @@
+<!--Heading matrix-->
 
-<h1 align="center">Hi 👋, I'm Sahan
-  
-<a href="https://twitter.com/DuseTrive" target="_blank" rel="noopener noreferrer" title="My Twitter Profile">
-<img align="right" width= 47px src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png">
-</a>
-<a href= "https://www.linkedin.com/in/thisara-wijesooriya-03b304162/" rel="noopener noreferrer"  target=_blank title="My Linkedin Profile">
-<img align="right" width= 47px src="https://user-images.githubusercontent.com/78523790/224313888-08948316-a0b4-4b5e-afe9-73879d7b0287.png">
-</a>
-</h1>    
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex-basis: 47%;">
-     <img align=right src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-  </div>
-  
-  <div style="flex-basis: 47%; text-align: justify;">
-  <p style="text-align: right;">
-    <h3 align="left">I'm an avid 💻 tech enthusiast, driven to conquer the digital world using my expertise in 🤖 artificial intelligence, 🔒 cyber security, and ☁️ cloud computing. Follow me on my quest to illuminate the depths of cyberspace and push the limits of technology! In five words, I would describe myself as:<br><br>&nbsp;&nbsp;🤔&nbsp;&nbsp;Innovative,<br><br>&nbsp;&nbsp;🤝&nbsp;&nbsp;Knowledge-seeking,<br><br>&nbsp;&nbsp;💡&nbsp;&nbsp;Brainstorming,<br><br>&nbsp;&nbsp;👍&nbsp;&nbsp;Determined,<br><br>&nbsp;&nbsp;🚀&nbsp;&nbsp;Radical thinker</h3>
+<!-- Readme typing SVg- https://git.io/typing-svg -->
+<!-- Koodos to DenverCoder1-->
+
+<p align="Center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mate+SC&size=28&pause=1000&color=0AD51B&center=true&vCenter=true&width=435&lines=Passionate+about+cybersecurity.;Skilled+in+scripting%2Fautomation.;Proven+blue%2Fred+team+player.;Enthusiastic+about+AI+in+security.;Self-taught+with+cloud+platforms.;Strong+communicator+of+tech.;Creative+problem-solver.;Hands-on+cloud+experience." alt="Typing SVG" /></a>
   </p>
-</div>
-<br>
 
-# 👨‍💻 Projects
-<details open>
-## 🛠️     IT and System Builds
-<ul>
-  <a href="https://medium.com/@sahanwije/deploying-traditional-active-directory-in-azure-9314166433a0" target="_blank">
-    <li> Deploying Traditional Active Directory in Azure </li> </a>
-  </ul>
-</details>
-# 🏆 Cetifications 
+<!--Social Media-->
+<!--Icons from https://www.iconfinder.com/-->
+<p align="center">
+<a href="https://www.youtube.com/@CyberCenturions"><img width="40px" alt="Youtube" title="Youtube" src="https://www.iconsdb.com/icons/preview/green/youtube-3-xxl.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://twitter.com/DuseTrive"><img width="40px" alt="Twitter" title="Twitter" src="https://www.iconsdb.com/icons/preview/green/twitter-3-xxl.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://discord.com/users/618256140710576139" alt="Discord" title="Discord"><img width="40px" src="https://www.iconsdb.com/icons/preview/green/discord-xxl.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;  
+ <a href="https://www.linkedin.com/in/thisara-wijesooriya-03b304162/" alt="Linkedin" title="Linkedin"><img width="40px" src="https://www.iconsdb.com/icons/preview/green/linkedin-3-xxl.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://medium.com/@sahanwije" alt="Medium" title="Medium Blog"><img width="40px" src="https://icon-library.com/images/social-62-512_77264.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
 
+</p>
 
-# 🥇🥈🥉 Achivements 
-## <p> &nbsp;&nbsp; <img width= 2% src= "https://tryhackme-images.s3.amazonaws.com/room-icons/e75903ecb45ecd77c5635918f87e1a08.png"> TryHackMe </p>
-## <p> &nbsp;&nbsp; <img width= 2% src= "https://static-00.iconduck.com/assets.00/hack-the-box-icon-512x512-pokr8xc5.png"> HackTheBox </p>
-## <p> &nbsp;&nbsp; <img width= 2% src= "https://en.wikipedia.org/wiki/HackerRank#/media/File:HackerRank_Icon-1000px.png"> HackerRank </p>
-## <p> &nbsp;&nbsp; <img width= 2% src= "https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png"> Microsoft  </p>
-## <p> &nbsp;&nbsp; <img width= 2% src= "https://cyclr.com/wp-content/uploads/2022/05/ext-2.png"> Google </p>
-## <p> &nbsp;&nbsp; <img width= 2% src= "https://blueteamlabs.online/images/logo.png"> Blue Team Labs online </p> 
-## <p> &nbsp;&nbsp; <img width= 2% src= "https://avatars.githubusercontent.com/u/5315773?s=280&v=4"> PicoCTF </p>
-
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=plastic&logo=krita&logoColor=EEF37B) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
-
-# 📊 GitHub Stats:
-
-<p>
-<a href="https://github.com/DuseTrive">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuseTrive&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"height="192px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuseTrive&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="192px">
-</a></p>
-
-
-
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thisara-wijesooriya-03b304162) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sahanwije) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DuseTrive) 
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DuseTrive&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=DuseTrive)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=DuseTrive&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
