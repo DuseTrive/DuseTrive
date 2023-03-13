@@ -224,9 +224,11 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <p align="center">
     <!-- add TryHackMe badges -->
   <!--<img width="" src="" title="" alt=""> -->
-  <img width="60px" src="https://tryhackme.com/img/badges/linux.svg" title="cat linux" alt="cat linux">
+  <img width="60px" src="https://tryhackme.com/img/badges/linux.svg" title="cat linux" alt="cat linux" style="box-shadow: 0 0 10px rgba(0,0,0,0.3);">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="60px" src="https://tryhackme.com/img/badges/webbed.svg" title="webbed" alt="webbed">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="60px" src="https://tryhackme.com/img/badges/burpsuite.svg" title="Burp'ed" alt="Burp'ed">
   &nbsp;&nbsp;&nbsp;&nbsp;
   </p>
   </a>
