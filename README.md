@@ -151,7 +151,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
       <img width="50px" src="https://img.icons8.com/color/256/metasploit.png" title="Metasploit" alt="Metasploit">
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="50px" src="https://nmap.org/images/nmap-logo-64px.svg" title="Nmap" alt="Nmap">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="40px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/burp_suite_alt_macos_bigsur_icon_190318.png" title="BurpSuit" alt="BurpSuit">
