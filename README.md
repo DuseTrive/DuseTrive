@@ -92,7 +92,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <div>
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;🖥️ Operating Systems</h3>
     <blockquote><p>Here are some of the operating systems that I use for my projects and daily work:</p></blockquote>
-    <p>
+    <p align="left">
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img width="40px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/windows-512.png" title="Windows" alt="Windows">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -120,7 +120,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <div>
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;🛡️ Blue Team Tools</h3>
     <blockquote><p>These are some of the blue team tools that I use for security monitoring and incident response:</p></blockquote>
-    <p>
+    <p align="left">
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img width="40px" src="https://yt3.googleusercontent.com/ytc/AL5GRJUrRbNS4b0tuCnFhoIeENDJCmBp1HoUnv4gE8lmRA=s900-c-k-c0x00ffffff-no-rj" title="Splink"                 alt="Splunk">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -148,7 +148,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <div>
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;🔴 Red Team Tools</h3>
     <blockquote><p>These are some of the red team tools that I use for penetration testing and ethical hacking:</p></blockquote>
-    <p>
+    <p align="left">
     &nbsp;&nbsp;&nbsp;
       <img width="50px" src="https://img.icons8.com/color/256/metasploit.png" title="Metasploit" alt="Metasploit">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -176,14 +176,14 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <div>
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;📜 Scripting, Programming and Markup Languages</h3>
     <blockquote><p>These are the Programming languages I use for automation and other tasks.</p></blockquote>
-    <p>
+    <p align="left">
     </p>
    </div> 
   <hr>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;🌟 Other</h3>
     <blockquote><p>These are other tools and technologies that I have experience with.</p></blockquote>
-    <p>
+    <p align="left">
     </p>
    </div> 
   <hr>
