@@ -31,14 +31,14 @@
 <!--##############################################################################################################################################################-->
 
 <!--About me section- generated using CHATRGPT-->
-<h2>🙋‍♂️ About me</h2><hr>
+<h2>🙋‍♂️ About me</h2>
 
 As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutions and knowledge. With my unwavering determination and radical thinking, I excel at brainstorming and exploring new, fantastical ideas. I approach challenges with boundless enthusiasm and relish the opportunity to share my passion with others through exceptional communication skills.
 <br><hr>
 <!--##############################################################################################################################################################-->
 <!--Project section-->
 
- <h2>📘 My Top Projects</h2><hr>
+ <h2>📘 My Top Projects</h2>
   <!-- IT builds sub -->
   <h3>&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 IT and System Builds</h3>
   <blockquote><p>Here, you'll find some of my most exciting IT and system builds, where I've implemented cutting-edge technologies to create powerful and efficient systems. 💻🛠️</p></blockquote>
@@ -57,7 +57,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <br>
 <!--###########################################################################################################################################################-->
 
-## 📺 Latest Youtube Videos <br><hr>
+## 📺 Latest Youtube Videos
 
 <blockquote><p>🎬 Hey guys, check out my latest YouTube video! It's packed with tips and tricks to help you become a pro in no time. 👍🔔</p></blockquote><br>
 
@@ -68,7 +68,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 
 <!--###########################################################################################################################################################-->
 
-## 📚 Blog Posts <hr>
+## 📚 Blog Posts
 
 <blockquote><p>📝 Check out my latest blog post on cybersec, cloud, and AI! From industry trends to personal experiences, my posts cover a wide range of topics that are sure to keep you engaged. Leave a comment and let's chat! 💬🤗</p></blockquote><br>
 
