@@ -159,7 +159,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
       <img width="45px" src="https://cydrill.com/wp-content/uploads/owasp_logo_flat2_icon.png" alt="OWASP" title="OWASP">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="45px" src="https://miro.medium.com/v2/resize:fit:325/0*GJqVesB1TRqlSj_e.png" title="John the Ripper" alt="John the Ripper">
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="45px" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" title="Hydra" alt="Hydra">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="50px" src="https://www.kali.org/tools/masscan/images/masscan-logo.svg" title="Masscan" alt="Masscan">
