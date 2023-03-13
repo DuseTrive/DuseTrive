@@ -236,8 +236,6 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="60px" src="https://tryhackme.com/img/badges/howthewebworks.svg" title="www" alt="WWW" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="60px" src="https://tryhackme.com/img/badges/howthewebworks.svg" title="www" alt="WWW" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="60px" src="https://tryhackme.com/img/badges/metasploit.svg" title="metasploitable" alt="metasploitable" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="60px" src="https://tryhackme.com/img/badges/owasptop10.svg" title="OWASP" alt="OWASP" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
