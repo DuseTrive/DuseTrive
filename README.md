@@ -64,7 +64,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 <a href="https://www.youtube.com/watch?v=novMWrpmtEg">
   <img src="https://img.youtube.com/vi/novMWrpmtEg/0.jpg" width="300px" alt="YouTube video demonstrating step-by-step" style="object-fit: cover; object-position: 50% 0; height: 50%;"><br><p>Deploying Traditional Active Directory on Azure - Step-by-Step Guide</p>
 </a>
-<hr><br>
+<hr>
 
 <!--###########################################################################################################################################################-->
 
