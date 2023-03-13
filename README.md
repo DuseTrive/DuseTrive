@@ -198,7 +198,26 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;🌟 Other</h3>
     <blockquote><p>These are other tools and technologies that I have experience with.</p></blockquote>
     <p align="left">
-    
+    &nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://img.icons8.com/fluency/256/old-vmware-logo.png" title="VMware" alt="VMware">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://img.icons8.com/color/256/virtualbox.png" title="Virtualbox" alt="Virtualbox">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="45px" src="https://static-00.iconduck.com/assets.00/apps-genymotion-icon-512x512-yl3vtvd2.png" title="Genymotion" alt="Genymotion">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="45px" src="https://img.icons8.com/fluency/256/azure-1.png" alt="Azure" title="Azure">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="45px" src="https://img.icons8.com/color/256/amazon-web-services.png" title="AWS" alt="AWS">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="45px" src="https://img.icons8.com/color/256/google-cloud.png" title="Google Cloud" alt="Google cloud">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://img.icons8.com/color/256/linode.png" title="Linod" alt="Linod">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="45px" src="https://img.icons8.com/color/256/tableau-software.png" title="Tableau" alt="Tableu">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="45px" src="https://img.icons8.com/fluency/256/grafana.png" title="Grafana" alt="Grafana">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://img.icons8.com/color/256/docker.png" title="Docker" alt="Docker">
     </p>
    </div> 
   <hr>
