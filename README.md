@@ -255,26 +255,32 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   </a>
 
   <!-- Blue Team Lab Online -->
+  <a href="https://blueteamlabs.online/public/user/d8e8d551a99eb02bc5a410" title="Blue Team Online Labs" style="color: inherit; text-decoration: none;">
   <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;🛡️ Blue Team Lab Online</h3>
   <blockquote><p>Discover my progress on Blue Team Lab Online, where I've gained practical experience in incident response, threat hunting, and other essential cybersecurity skills. 🔍🔒</p></blockquote>
   <table align="center">
     <tr align="center">
-      <th><b>Rank</b></th>
-      <th><b>Rooms Completed</b></th>
-      <th><b>Level</b></th>
-      <th><b>Number of Badges</b></th>
+      <th><b>Global Rank</b></th>
+      <th><b>Country Rank</b></th>
+      <th><b>Points</b></th>
+      <th><b>Investigations</b></th>
+      <th><b>Challenges</b></th>
     </tr>
     <tr align="center">
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>2433</td>
+      <td>127</td>
+      <td>109</td>
+      <td>2</td>
+      <td>3</td>
     </tr>
-  </table>
+  </table><br>
   <p>
     <!-- add Blue Team Lab Online details here -->
+  <img width="70px" src="https://blueteamlabs.online/storage/badges/tV87YxpfVparBwiACfdn.png" title="Analyst I" alt="Analyst I" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   </p>
-  
+  </a>
+
   <!-- Hack The Box -->
   <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;🔓 Hack The Box</h3>
   <blockquote><p>See some of my most noteworthy achievements on the Hack The Box platform, where I've tackled challenging penetration testing challenges and advanced my skills in offensive security. 🕵️‍♂️🔒</p></blockquote>
