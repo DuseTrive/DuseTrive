@@ -467,7 +467,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 <!--#####################################################################################################-->
 
 <details>
-<summary> <h1>📊 GitHub Stats and Trophies</h1></summary>
+<summary> <h1>📊 GitHub Stats and Trophies</h1></summary><hr>
 
 <p>
 <a href="https://github.com/DuseTrive">
