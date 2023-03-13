@@ -149,6 +149,26 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;🔴 Red Team Tools</h3>
     <blockquote><p>These are some of the red team tools that I use for penetration testing and ethical hacking:</p></blockquote>
     <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://img.icons8.com/color/256/metasploit.png" title="Metasploit" alt="Metasploit">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://nmap.org/images/nmap-logo-64px.svg" title="Nmap" alt="Nmap">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="40px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/burp_suite_alt_macos_bigsur_icon_190318.png" title="BurpSuit" alt="BurpSuit">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="45px" src="https://cydrill.com/wp-content/uploads/owasp_logo_flat2_icon.png" alt="OWASP" title="OWASP">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="45px" src="https://miro.medium.com/v2/resize:fit:325/0*GJqVesB1TRqlSj_e.png" title="John the Ripper" alt="John the Ripper">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="45px" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" title="Hydra" alt="Hydra">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://www.kali.org/tools/masscan/images/masscan-logo.svg" title="Masscan" alt="Masscan">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="52.5px" src="https://www.kali.org/tools/dirb/images/dirb-logo.svg" title="Dirb" alt="Dirb">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="45px" src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" title="ffuf" alt="ffuf">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" title="WPscan" alt="WPscan">
     </p>
    </div> 
   <hr>
