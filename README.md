@@ -95,11 +95,11 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     <p>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img width="40px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/windows-512.png" title="Windows" alt="Windows">
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="45px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/OS_Windows_alt.png" title="Windows server" alt="Windows server">
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" title="Linux" alt="Linux">
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="45px" src="https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/ubuntu-512.png" title="Ubuntu" alt="Ubntu">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="45px" src="https://img.icons8.com/color/256/kali-linux.png" title="Kali OS" alt="Kali OS">
