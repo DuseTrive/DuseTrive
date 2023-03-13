@@ -34,7 +34,7 @@
 <h2>🙋‍♂️ About me</h2>
 
 As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutions and knowledge. With my unwavering determination and radical thinking, I excel at brainstorming and exploring new, fantastical ideas. I approach challenges with boundless enthusiasm and relish the opportunity to share my passion with others through exceptional communication skills.
-<br><hr>
+<br>
 <!--##############################################################################################################################################################-->
 <!--Project section-->
 
@@ -77,7 +77,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 <li> <a href="https://medium.com/@sahanwije/deploying-ubuntu-operating-system-in-vmware-for-complete-beginners-b356f0633234">Deploying Ubuntu operating system in VMware. — For complete beginners</a></li>
 </ul>
 
-<hr><br>
+<hr>
 <!--###########################################################################################################################################################-->
 <!--Achivemnts-->
 
