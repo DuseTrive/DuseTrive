@@ -80,7 +80,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     <!-- add other project details here -->  
   </p> 
 </details>
-<hr>
+
 
 <!--###########################################################################################################################################################-->
 <!-- Tech TOOOLS i USE -->
