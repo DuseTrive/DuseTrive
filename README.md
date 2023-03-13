@@ -227,13 +227,13 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 <!--Achivemnts-->
 
 <details>
-  <summary><h2>Achievements</h2></summary>
+  <summary><h2>🏆 Achievements</h2></summary>
   <hr>
   
   <!-- TryHackMe -->
   <h3>&nbsp;&nbsp;&nbsp;&nbsp;🔍 TryHackMe</h3>
   <blockquote><p>Explore some of my accomplishments on the TryHackMe platform, where I've honed my cybersecurity skills through hands-on challenges and interactive learning. 🎓👨‍💻</p></blockquote>
-  <table>
+  <table align="center">
     <tr align="center">
       <th><b>Rank</b></th>
       <th><b>Number Rooms Completed</b></th>
@@ -254,7 +254,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <!-- Blue Team Lab Online -->
   <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;🛡️ Blue Team Lab Online</h3>
   <blockquote><p>Discover my progress on Blue Team Lab Online, where I've gained practical experience in incident response, threat hunting, and other essential cybersecurity skills. 🔍🔒</p></blockquote>
-  <table>
+  <table align="center">
     <tr align="center">
       <th><b>Rank</b></th>
       <th><b>Rooms Completed</b></th>
@@ -275,7 +275,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <!-- Hack The Box -->
   <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;🔓 Hack The Box</h3>
   <blockquote><p>See some of my most noteworthy achievements on the Hack The Box platform, where I've tackled challenging penetration testing challenges and advanced my skills in offensive security. 🕵️‍♂️🔒</p></blockquote>
-  <table>
+  <table align="center">
     <tr align="center">
       <th><b>Rank</b></th>
       <th><b>Rooms Completed</b></th>
@@ -296,7 +296,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <!-- PicoCTF -->
   <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;🔐 PicoCTF</h3>
   <blockquote><p>Check out some of my accomplishments on PicoCTF, a cybersecurity competition designed to teach beginners the basics of hacking. 🎯💻</p></blockquote>
-  <table>
+  <table align="center">
     <tr align="center">
       <th><b>Rank</b></th>
       <th><b>Rooms Completed</b></th>
@@ -317,7 +317,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <!-- Microsoft Learning -->
   <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;🎓 Microsoft Learning</h3>
   <blockquote><p>Explore some of my achievements on Microsoft Learning, where I've earned certifications and gained practical skills in cloud computing, cybersecurity, and other key IT areas. 💻📚</p></blockquote>
-  <table>
+  <table align="center">
     <tr align="center">
       <th><b>Rank</b></th>
       <th><b>Rooms Completed</b></th>
@@ -338,7 +338,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <!-- Google Learning -->
   <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;👨‍🎓 Google Learning</h3>
   <blockquote><p>Discover some of my accomplishments on Google Learning, where I've gained expertise in machine learning, data analytics, and other cutting-edge technologies. 📈🧠</p></blockquote>
-  <table>
+  <table align="center">
     <tr align="center">
       <th><b>Rank</b></th>
       <th><b>Rooms Completed</b></th>
