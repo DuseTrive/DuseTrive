@@ -35,7 +35,7 @@
 
 As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutions and knowledge. With my unwavering determination and radical thinking, I excel at brainstorming and exploring new, fantastical ideas. I approach challenges with boundless enthusiasm and relish the opportunity to share my passion with others through exceptional communication skills.
 <!--##############################################################################################################################################################-->
-
+<!--Project section-->
 
 <details>
   <summary><h2>📘 My Top Projects</h2></summary><hr>
@@ -220,4 +220,140 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
       <img width="50px" src="https://img.icons8.com/color/256/docker.png" title="Docker" alt="Docker">
     </p>
    </div> 
+   </details>
+
+<!--#####################################################################################################-->
+
+<!--Achivemnts-->
+
+<details>
+  <summary><h2>Achievements</h2></summary>
   <hr>
+  
+  <!-- TryHackMe -->
+  <h3>&nbsp;&nbsp;&nbsp;&nbsp;🔍 TryHackMe</h3>
+  <blockquote><p>Explore some of my accomplishments on the TryHackMe platform, where I've honed my cybersecurity skills through hands-on challenges and interactive learning. 🎓👨‍💻</p></blockquote>
+  <table>
+    <tr align="center">
+      <th><b>Rank</b></th>
+      <th><b>Number Rooms Completed</b></th>
+      <th><b>Level</b></th>
+      <th><b>Number of Badges</b></th>
+    </tr>
+    <tr align="center">
+      <td>35021<br><I>top 2%</I></td>
+      <td>72</td>
+      <td>9</td>
+      <td>13</td>
+    </tr>
+  </table>
+  <p>
+    <!-- add TryHackMe details here -->
+  </p>
+  
+  <!-- Blue Team Lab Online -->
+  <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;🛡️ Blue Team Lab Online</h3>
+  <blockquote><p>Discover my progress on Blue Team Lab Online, where I've gained practical experience in incident response, threat hunting, and other essential cybersecurity skills. 🔍🔒</p></blockquote>
+  <table>
+    <tr align="center">
+      <th><b>Rank</b></th>
+      <th><b>Rooms Completed</b></th>
+      <th><b>Level</b></th>
+      <th><b>Number of Badges</b></th>
+    </tr>
+    <tr align="center">
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+  <p>
+    <!-- add Blue Team Lab Online details here -->
+  </p>
+  
+  <!-- Hack The Box -->
+  <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;🔓 Hack The Box</h3>
+  <blockquote><p>See some of my most noteworthy achievements on the Hack The Box platform, where I've tackled challenging penetration testing challenges and advanced my skills in offensive security. 🕵️‍♂️🔒</p></blockquote>
+  <table>
+    <tr align="center">
+      <th><b>Rank</b></th>
+      <th><b>Rooms Completed</b></th>
+      <th><b>Level</b></th>
+      <th><b>Number of Badges</b></th>
+    </tr>
+    <tr align="center">
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+  <p>
+    <!-- add Hack The Box details here -->
+  </p>
+  
+  <!-- PicoCTF -->
+  <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;🔐 PicoCTF</h3>
+  <blockquote><p>Check out some of my accomplishments on PicoCTF, a cybersecurity competition designed to teach beginners the basics of hacking. 🎯💻</p></blockquote>
+  <table>
+    <tr align="center">
+      <th><b>Rank</b></th>
+      <th><b>Rooms Completed</b></th>
+      <th><b>Level</b></th>
+      <th><b>Number of Badges</b></th>
+    </tr>
+    <tr align="center">
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+  <p>
+    <!-- add PicoCTF details here -->
+  </p>
+  
+  <!-- Microsoft Learning -->
+  <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;🎓 Microsoft Learning</h3>
+  <blockquote><p>Explore some of my achievements on Microsoft Learning, where I've earned certifications and gained practical skills in cloud computing, cybersecurity, and other key IT areas. 💻📚</p></blockquote>
+  <table>
+    <tr align="center">
+      <th><b>Rank</b></th>
+      <th><b>Rooms Completed</b></th>
+      <th><b>Level</b></th>
+      <th><b>Number of Badges</b></th>
+    </tr>
+    <tr align="center">
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+  <p>
+    <!-- add Microsoft Learning details here -->
+  </p>
+  
+  <!-- Google Learning -->
+  <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;👨‍🎓 Google Learning</h3>
+  <blockquote><p>Discover some of my accomplishments on Google Learning, where I've gained expertise in machine learning, data analytics, and other cutting-edge technologies. 📈🧠</p></blockquote>
+  <table>
+    <tr align="center">
+      <th><b>Rank</b></th>
+      <th><b>Rooms Completed</b></th>
+      <th><b>Level</b></th>
+      <th><b>Number of Badges</b></th>
+    </tr>
+    <tr align="center">
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+  <p>
+    <!-- add Google Learning details here -->
+  </p>
+  
+</details>
