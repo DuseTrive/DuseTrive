@@ -167,7 +167,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
       <img width="52.5px" src="https://www.kali.org/tools/dirb/images/dirb-logo.svg" title="Dirb" alt="Dirb">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="45px" src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" title="ffuf" alt="ffuf">
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="50px" src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" title="WPscan" alt="WPscan">
     </p>
    </div> 
