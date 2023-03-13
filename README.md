@@ -224,32 +224,32 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <p align="center">
     <!-- add TryHackMe badges -->
   <!--<img width="" src="" title="" alt=""> -->
-  <img width="60px" src="https://tryhackme.com/img/badges/linux.svg" title="cat linux" alt="cat linux" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  <img width="80px" src="https://tryhackme.com/img/badges/linux.svg" title="cat linux" alt="cat linux" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="60px" src="https://tryhackme.com/img/badges/webbed.svg" title="webbed" alt="webbed" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  <img width="80px" src="https://tryhackme.com/img/badges/webbed.svg" title="webbed" alt="webbed" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="60px" src="https://tryhackme.com/img/badges/burpsuite.svg" title="Burp'ed" alt="Burp'ed" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  <img width="80px" src="https://tryhackme.com/img/badges/burpsuite.svg" title="Burp'ed" alt="Burp'ed" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="60px" src="https://tryhackme.com/img/badges/streak7.svg" title="7-day-strik" alt="7-day-strik" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  <img width="80px" src="https://tryhackme.com/img/badges/streak7.svg" title="7-day-strik" alt="7-day-strik" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="60px" src="https://tryhackme.com/img/badges/networkfundamentals.svg" title="Network nerd" alt="Network Nerd" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  <img width="80px" src="https://tryhackme.com/img/badges/networkfundamentals.svg" title="Network nerd" alt="Network Nerd" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="60px" src="https://tryhackme.com/img/badges/howthewebworks.svg" title="www" alt="WWW" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  <img width="80px" src="https://tryhackme.com/img/badges/howthewebworks.svg" title="www" alt="WWW" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="60px" src="https://tryhackme.com/img/badges/metasploit.svg" title="metasploitable" alt="metasploitable" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  <img width="80px" src="https://tryhackme.com/img/badges/metasploit.svg" title="metasploitable" alt="metasploitable" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="60px" src="https://tryhackme.com/img/badges/owasptop10.svg" title="OWASP" alt="OWASP" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  <img width="80px" src="https://tryhackme.com/img/badges/owasptop10.svg" title="OWASP" alt="OWASP" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="60px" src="https://tryhackme.com/img/badges/hashcracker.svg" title="Hash-cracker" alt="Hash-cracker" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  <img width="80px" src="https://tryhackme.com/img/badges/hashcracker.svg" title="Hash-cracker" alt="Hash-cracker" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="60px" src="https://tryhackme.com/img/badges/pentestingtools_badge.svg" title="pentest tools" alt="pentet tool" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  <img width="80px" src="https://tryhackme.com/img/badges/pentestingtools_badge.svg" title="pentest tools" alt="pentet tool" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="60px" src="https://tryhackme.com/img/badges/blue.svg" title="Blue" alt="Blue" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  <img width="80px" src="https://tryhackme.com/img/badges/blue.svg" title="Blue" alt="Blue" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="60px" src="https://tryhackme.com/img/badges/introtowebsecurity.svg" title="intro to web hacking" alt="intro to web hacking" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  <img width="80px" src="https://tryhackme.com/img/badges/introtowebsecurity.svg" title="intro to web hacking" alt="intro to web hacking" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img width="60px" src="https://tryhackme.com/img/badges/mrrobot.svg" title="mr robot" alt="mr robot" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+<img width="80px" src="https://tryhackme.com/img/badges/mrrobot.svg" title="mr robot" alt="mr robot" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
   </p>
   </a><br>
@@ -276,15 +276,15 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   </table><br>
   <p align="center">
     <!-- add Blue Team Lab Badges -->
-  <img width="70px" src="https://blueteamlabs.online/storage/badges/tV87YxpfVparBwiACfdn.png" title="Analyst I" alt="Analyst I" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  <img width="90px" src="https://blueteamlabs.online/storage/badges/tV87YxpfVparBwiACfdn.png" title="Analyst I" alt="Analyst I" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="70px" src="https://blueteamlabs.online/storage/badges/AUPabziV9nRJQ5iEhKl3.png" title="Responder I" alt="Responder I" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  <img width="90px" src="https://blueteamlabs.online/storage/badges/AUPabziV9nRJQ5iEhKl3.png" title="Responder I" alt="Responder I" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="70px" src="https://blueteamlabs.online/storage/badges/bWwHTdsIEC1mQFPmnXnZ.png" title="Challenger I" alt="Challenger I" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  <img width="90px" src="https://blueteamlabs.online/storage/badges/bWwHTdsIEC1mQFPmnXnZ.png" title="Challenger I" alt="Challenger I" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="70px" src="https://blueteamlabs.online/storage/badges/RdLpiHsY7YbqjRhMlY3K.png" title="Initiate" alt="Initiate" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  <img width="90px" src="https://blueteamlabs.online/storage/badges/RdLpiHsY7YbqjRhMlY3K.png" title="Initiate" alt="Initiate" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="70px" src="https://blueteamlabs.online/storage/badges/exJXDvClNDTdZVf7hPJM.png" title="New Member" alt="New Member" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  <img width="90px" src="https://blueteamlabs.online/storage/badges/exJXDvClNDTdZVf7hPJM.png" title="New Member" alt="New Member" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
   </p>
   </a><br>
@@ -386,6 +386,10 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <p align="center">
     <!-- add Google Learning badges here -->
     <img width="149px" height="100px"src="https://cdn.qwiklabs.com/Z5mHEcZSfjDvSjtBRmzjgY1O5B9uT%2BJME8KqR%2FgmmyI%3D" title="Set Up and Configure a Cloud Environment in Google Cloud" alt="Set Up and Configure a Cloud Environment in Google Cloud" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="149px" height="100px"src="https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D" title="Perform Foundational Infrastructure Tasks in Google Cloud" alt="Perform Foundational Infrastructure Tasks in Google Cloud" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="149px" height="100px"src="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D" title="Create and Manage Cloud Resources" alt="Create and Manage Cloud Resources" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
     &nbsp;&nbsp;&nbsp;&nbsp;
   </p>
   </a>
