@@ -121,10 +121,26 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;🛡️ Blue Team Tools</h3>
     <blockquote><p>These are some of the blue team tools that I use for security monitoring and incident response:</p></blockquote>
     <p>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white">
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/OSSEC-000000?style=flat&logo=OSSEC&logoColor=white">
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="40px" src="https://yt3.googleusercontent.com/ytc/AL5GRJUrRbNS4b0tuCnFhoIeENDJCmBp1HoUnv4gE8lmRA=s900-c-k-c0x00ffffff-no-rj" title="Splink"                 alt="Splunk">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="45px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snort_logo_icon_167980.png" title="Snort" alt="Snort">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="40px" src="https://avatars.githubusercontent.com/u/6233056?s=280&v=4" title="Wireshark" alt="Wireshark">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="40px" src="https://s3-symbol-logo.tradingview.com/tenable-holdings--600.png" alt="Nessus" title="Nessus">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/1200px-Ghidra_logo.svg.png" title="Ghidra" alt="Ghidra">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="40px" src="https://www.vectorlogo.zone/logos/virustotal/virustotal-icon.svg" title="VirusTotal" alt="VirusTotal">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://d7umqicpi7263.cloudfront.net/img/product/9d4ccf9c-09cb-4a76-84da-e50fca281e58/108df64d-c341-461d-a9b4-b5065b45a7d1.png" title="Autopsy" alt="Autopsy">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="45px" src="https://pbs.twimg.com/profile_images/1365268329565462532/DWelm4tx_400x400.png" title="ANY RUN" alt="ANY RUN">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="45px" src="https://cdn11.bigcommerce.com/s-2c9am5e92r/images/stencil/1280x1280/products/8618/4463/AccessData-FTK__48816.1562159340.png?c=2" title="FTK toolkit" alt="FTK toolkit">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="45px" src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" title="Nikto" alt="Nikto">
     </p>
   </div>
   <hr>
