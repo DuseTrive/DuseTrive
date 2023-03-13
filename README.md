@@ -149,7 +149,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;🔴 Red Team Tools</h3>
     <blockquote><p>These are some of the red team tools that I use for penetration testing and ethical hacking:</p></blockquote>
     <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
       <img width="50px" src="https://img.icons8.com/color/256/metasploit.png" title="Metasploit" alt="Metasploit">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="50px" src="https://nmap.org/images/nmap-logo-64px.svg" title="Nmap" alt="Nmap">
