@@ -39,52 +39,53 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 <!-- project section -->
 <details>
   <summary><h2>📘 My Top Projects</h2></summary>
-  <details> 
-    <!-- IT builds sub -->
+  <!-- IT builds sub -->
+  <details>
     <summary><h3>&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 IT and System Builds</h3></summary>
     <blockquote><p>Here, you'll find some of my most exciting IT and system builds, where I've implemented cutting-edge technologies to create powerful and efficient systems. 💻🛠️</p></blockquote>
-      <!-- add cloud, os and other similar in here--> 
-      
+    <p>
+      <!-- add cloud, os and other similar in here-->
       <a href="https://github.com/DuseTrive/Deploying-Traditional-Active-Directory-in-Azure">
         <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Deploying-Traditional-Active-Directory-in-Azure&theme=dark" alt="Deploting-traditional-ad-in-azure"></a>
-      
-    
-    
+    </p>
   </details>
-  <details> 
-    <!-- AI developing project -->
+  <!-- AI developing project -->
+  <details>
     <summary><h3>&nbsp;&nbsp;&nbsp;&nbsp;🧠 AI Developments</h3></summary>
     <blockquote><p>This section showcases some of my latest AI developments, including machine learning models and computer vision applications that are changing the way we interact with technology. 🤖🧠</p></blockquote>
     <p>
       <!-- add ai modules here-->  
     </p>
   </details>
-  <details> 
+  <details>
     <summary><h3>&nbsp;&nbsp;&nbsp;&nbsp;🕵️‍♂️ Blue Team Investigations</h3></summary>
     <blockquote><p>Here, I'll take you through some of my most exciting investigations where I've used my skills in cybersecurity to protect businesses from malicious attacks and help them build robust security systems. 🔒🛡️</p></blockquote>
     <p>
       <!-- add blue team investigation details here -->  
     </p>
   </details>
-  <details> 
+  <details>
     <summary><h3>&nbsp;&nbsp;&nbsp;&nbsp;🔴 Red Team Investigations</h3></summary>
     <blockquote><p>Take a look at some of my most challenging red team investigations where I've simulated cyber attacks to test the security of organizations and help them identify vulnerabilities. 🚨🔍</p></blockquote>
     <p>
       <!-- add red team investigation details here -->  
     </p>
   </details>
-  <details> 
+  <details>
     <summary><h3>&nbsp;&nbsp;&nbsp;&nbsp;🤖 Scripts</h3></summary>
     <blockquote><p>Check out this section to see some of my most useful scripts, from automation tools to data parsing and manipulation scripts that help streamline processes and increase efficiency. 🚀📜</p></blockquote>
     <p>
       <!-- add script details here -->  
     </p>
   </details>
-  <details> 
+  <details>
     <summary><h3>&nbsp;&nbsp;&nbsp;&nbsp;🔮 Other</h3></summary>
     <blockquote><p>Finally, this section contains some of my miscellaneous projects, including some experimental and innovative ideas that push the boundaries of what's possible with technology. 🌟💡</p></blockquote>
+   
+
     <p>
       <!-- add other project details here -->  
     </p>
-  </details>
+  </div>
 </details>
+
