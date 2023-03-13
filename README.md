@@ -93,7 +93,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;🖥️ Operating Systems</h3>
     <blockquote><p>Here are some of the operating systems that I use for my projects and daily work:</p></blockquote>
     <p>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <img width="40px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/windows-512.png" title="Windows" alt="Windows">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="45px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/OS_Windows_alt.png" title="Windows server" alt="Windows server">
@@ -110,24 +110,13 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="45px" src="https://tails.boum.org/contribute/how/promote/material/logo/tails-logo-square-inverted-notagline.svg" title="Tails OS" alt="Tail OS">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img width="50px" src="https://wiki.centos.org/ArtWork/Brand/Logo?action=AttachFile&do=get&target=centos-symbol.svg" title="Tails OS" alt="Tail OS">
-      
+      <img width="50px" src="https://wiki.centos.org/ArtWork/Brand/Logo?action=AttachFile&do=get&target=centos-symbol.svg" title="CentOS" alt="CentOS">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" title="Archlinux" alt="Archlinux">
     </p>
   </div>
   <hr>
-  <!-- Recon Tools sub -->
-  <div>
-    <h3>&nbsp;&nbsp;&nbsp;&nbsp;🔎 Reconnaissance Tools</h3>
-    <blockquote><p>These are some of the reconnaissance tools that I use for information gathering:</p></blockquote>
-    <p>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/nmap-%23E34F26.svg?style=flat&logo=nmap&logoColor=white">
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/Recon-ng-black?style=flat&logo=recon-ng">
-    </p>
-  </div>
-  <hr>
-  <!-- Blue Team Tools sub -->
+    <!-- Blue Team Tools sub -->
   <div>
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;🛡️ Blue Team Tools</h3>
     <blockquote><p>These are some of the blue team tools that I use for security monitoring and incident response:</p></blockquote>
