@@ -231,6 +231,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <hr>
   
   <!-- TryHackMe -->
+  <a href="https://tryhackme.com/p/DuseTrive" title="tryhackme" style="color: inherit; text-decoration: none;">
   <h3>&nbsp;&nbsp;&nbsp;&nbsp;<img width="20px" src="https://tryhackme.com/img/favicon.png">  TryHackMe</h3>
   <blockquote><p>Explore some of my accomplishments on the TryHackMe platform, where I've honed my cybersecurity skills through hands-on challenges and interactive learning. 🎓👨‍💻</p></blockquote>
   <table align="center">
@@ -247,10 +248,16 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
       <td>13</td>
     </tr>
   </table>
-  <p>
-    <!-- add TryHackMe details here -->
+  <p align="center">
+    <!-- add TryHackMe badges -->
+  <!--<img width="" src="" title="" alt=""> -->
+  <img width="60px" src="https://tryhackme.com/img/badges/linux.svg" title="cat linux" alt="cat linux">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="60px" src="https://tryhackme.com/img/badges/webbed.svg" title="webbed" alt="webbed">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   </p>
-  
+  </a>
+
   <!-- Blue Team Lab Online -->
   <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;🛡️ Blue Team Lab Online</h3>
   <blockquote><p>Discover my progress on Blue Team Lab Online, where I've gained practical experience in incident response, threat hunting, and other essential cybersecurity skills. 🔍🔒</p></blockquote>
