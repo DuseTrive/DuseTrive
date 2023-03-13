@@ -31,14 +31,14 @@
 <!--##############################################################################################################################################################-->
 
 <!--About me section- generated using CHATRGPT-->
-<h2>🙋‍♂️ About me</h2>
+<h1>🙋‍♂️ About me</h1>
 
 As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutions and knowledge. With my unwavering determination and radical thinking, I excel at brainstorming and exploring new, fantastical ideas. I approach challenges with boundless enthusiasm and relish the opportunity to share my passion with others through exceptional communication skills.
 <br>
 <!--##############################################################################################################################################################-->
 <!--Project section-->
 
- <h2>📘 My Top Projects</h2>
+ <h1>📘 My Top Projects</h1>
   <!-- IT builds sub -->
   <h3>&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 IT and System Builds</h3>
   <blockquote><p>Here, you'll find some of my most exciting IT and system builds, where I've implemented cutting-edge technologies to create powerful and efficient systems. 💻🛠️</p></blockquote>
@@ -57,7 +57,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <br>
 <!--###########################################################################################################################################################-->
 
-## 📺 Latest Youtube Videos
+# 📺 Latest Youtube Videos
 
 <blockquote><p>🎬 Hey guys, check out my latest YouTube video! It's packed with tips and tricks to help you become a pro in no time. 👍🔔</p></blockquote><br>
 
@@ -68,7 +68,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 
 <!--###########################################################################################################################################################-->
 
-## 📚 Blog Posts
+# 📚 Blog Posts
 
 <blockquote><p>📝 Check out my latest blog post on cybersec, cloud, and AI! From industry trends to personal experiences, my posts cover a wide range of topics that are sure to keep you engaged. Leave a comment and let's chat! 💬🤗</p></blockquote><br>
 
@@ -82,7 +82,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 <!--Achivemnts-->
 
 <details>
-  <summary><h2>🏆 Achievements</h2></summary>
+  <summary><h1>🏆 Achievements</h1></summary>
   <hr>
   
   <!-- TryHackMe -->
@@ -328,7 +328,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <!-- Tech TOOOLS i USE -->
 
 <details>
-  <summary><h2>🖥️ Tech I Use</h2></summary>
+  <summary><h1>🖥️ Tech I Use</h1></summary>
     <hr>
   <!-- Operating Systems sub -->
   <div>
@@ -462,6 +462,21 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
       <img width="50px" src="https://img.icons8.com/color/256/docker.png" title="Docker" alt="Docker">
     </p>
    </div> 
-   </details>
+   </details> <hr>
 
 <!--#####################################################################################################-->
+
+<details>
+<summary> <h1>📊 GitHub Stats and Trophies</h1></summary>
+
+<p>
+<a href="https://github.com/DuseTrive">
+  <img src="https://github-readme-stats.vercel.app/api?username=DuseTrive&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"height="192px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuseTrive&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="192px">
+</a></p>
+<br>
+
+![](https://github-profile-trophy.vercel.app/?username=DuseTrive&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+
+</details>
