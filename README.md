@@ -150,7 +150,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     <blockquote><p>These are some of the red team tools that I use for penetration testing and ethical hacking:</p></blockquote>
     <p>
     </p>
-   </dir> 
+   </div> 
   <hr>
 <!-- Script Tools sub -->
   <div>
@@ -158,13 +158,12 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     <blockquote><p>These are the Programming languages I use for automation and other tasks.</p></blockquote>
     <p>
     </p>
-   </dir> 
+   </div> 
   <hr>
   <div>
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;🌟 Other</h3>
     <blockquote><p>These are other tools and technologies that I have experience with.</p></blockquote>
     <p>
     </p>
-   </dir> 
+   </div> 
   <hr>
-  
