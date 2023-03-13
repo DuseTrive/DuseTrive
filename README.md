@@ -231,7 +231,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <hr>
   
   <!-- TryHackMe -->
-  <h3>&nbsp;&nbsp;&nbsp;&nbsp;🔍 TryHackMe</h3>
+  <h3>&nbsp;&nbsp;&nbsp;&nbsp;<img width="20px" src="https://tryhackme.com/img/favicon.png">  TryHackMe</h3>
   <blockquote><p>Explore some of my accomplishments on the TryHackMe platform, where I've honed my cybersecurity skills through hands-on challenges and interactive learning. 🎓👨‍💻</p></blockquote>
   <table align="center">
     <tr align="center">
