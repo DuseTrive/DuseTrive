@@ -226,9 +226,32 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <!--<img width="" src="" title="" alt=""> -->
   <img width="60px" src="https://tryhackme.com/img/badges/linux.svg" title="cat linux" alt="cat linux" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="60px" src="https://tryhackme.com/img/badges/webbed.svg" title="webbed" alt="webbed" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7))>
+  <img width="60px" src="https://tryhackme.com/img/badges/webbed.svg" title="webbed" alt="webbed" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="60px" src="https://tryhackme.com/img/badges/burpsuite.svg" title="Burp'ed" alt="Burp'ed" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7))>
+  <img width="60px" src="https://tryhackme.com/img/badges/burpsuite.svg" title="Burp'ed" alt="Burp'ed" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="60px" src="https://tryhackme.com/img/badges/streak7.svg" title="7-day-strik" alt="7-day-strik" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="60px" src="https://tryhackme.com/img/badges/networkfundamentals.svg" title="Network nerd" alt="Network Nerd" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="60px" src="https://tryhackme.com/img/badges/howthewebworks.svg" title="www" alt="WWW" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="60px" src="https://tryhackme.com/img/badges/howthewebworks.svg" title="www" alt="WWW" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="60px" src="https://tryhackme.com/img/badges/metasploit.svg" title="metasploitable" alt="metasploitable" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="60px" src="https://tryhackme.com/img/badges/owasptop10.svg" title="OWASP" alt="OWASP" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="60px" src="https://tryhackme.com/img/badges/hashcracker.svg" title="Hash-cracker" alt="Hash-cracker" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="60px" src="https://tryhackme.com/img/badges/pentestingtools_badge.svg" title="pentest tools" alt="pentet tool" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="60px" src="https://tryhackme.com/img/badges/blue.svg" title="Blue" alt="Blue" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="60px" src="https://tryhackme.com/img/badges/introtowebsecurity.svg" title="intro to web hacking" alt="intro to web hacking" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://tryhackme.com/img/badges/mrrobot.svg" title="mr robot" alt="mr robot" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
   &nbsp;&nbsp;&nbsp;&nbsp;
   </p>
   </a>
