@@ -54,12 +54,12 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <p>
     <!-- add ai modules here-->  
   </p>
-
+  
    <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;🕵️‍♂️ Blue Team Investigations</h3>
   <blockquote><p>Here, I'll take you through some of my most exciting investigations where I've used my skills in cybersecurity to protect businesses from malicious attacks and help them build robust security systems. 🔒🛡️</p></blockquote>
   <p>
     <!-- add blue team investigation details here -->  
-  </p>
+      </p>
 
    <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;🔴 Red Team Investigations</h3>
   <blockquote><p>Take a look at some of my most challenging red team investigations where I've simulated cyber attacks to test the security of organizations and help them identify vulnerabilities. 🚨🔍</p></blockquote>
@@ -78,7 +78,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 
   <p>
     <!-- add other project details here -->  
-  </p>
+  </p> 
 </details>
 <hr>
 
@@ -177,6 +177,20 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;📜 Scripting, Programming and Markup Languages</h3>
     <blockquote><p>These are the Programming languages I use for automation and other tasks.</p></blockquote>
     <p align="left">
+    &nbsp;&nbsp;&nbsp;
+      <img width="45px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" title="Python" alt="Python">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="57px" src="https://img.icons8.com/plasticine/256/bash.png" title="Bash" alt="Bash">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="40px" src="https://img.icons8.com/fluency/256/powershell.png" title="Powershell" alt="Powershell">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="40px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="HTML" title="HTML">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="45px" src="https://img.icons8.com/fluency/256/r-project.png" title="R language" alt="R language">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="45px" src="https://img.icons8.com/nolan/256/lua-language.png" title="Lua" alt="Lua">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://img.icons8.com/officel/256/php-logo.png" title="PHP" alt="PHP">
     </p>
    </div> 
   <hr>
@@ -184,6 +198,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;🌟 Other</h3>
     <blockquote><p>These are other tools and technologies that I have experience with.</p></blockquote>
     <p align="left">
+    
     </p>
    </div> 
   <hr>
