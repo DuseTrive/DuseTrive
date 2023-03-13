@@ -45,7 +45,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <p>
     <!-- add cloud, os and other similar in here-->
     <a href="https://github.com/DuseTrive/Deploying-Traditional-Active-Directory-in-Azure">
-      <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Deploying-Traditional-Active-Directory-in-Azure&theme=dark&hide_border=true" alt="Deploting-traditional-ad-in-azure"></a>
+      <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Deploying-Traditional-Active-Directory-in-Azure&theme=dark&hide_border=true&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Deploting-traditional-ad-in-azure"></a>
   </p>
 
   <!-- AI developing project -->
@@ -220,7 +220,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
       <td>9</td>
       <td>13</td>
     </tr>
-  </table>
+  </table><br>
   <p align="center">
     <!-- add TryHackMe badges -->
   <!--<img width="" src="" title="" alt=""> -->
