@@ -49,7 +49,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   </p>
 
   <!-- AI developing project -->
-  <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;🧠 AI Developments</h3>
+  <h3>&nbsp;&nbsp;&nbsp;&nbsp;🧠 AI Developments</h3>
   <blockquote><p>This section showcases some of my latest AI developments, including machine learning models and computer vision applications that are changing the way we interact with technology. 🤖🧠</p></blockquote>
   <p>
     <!-- add ai modules here-->  
