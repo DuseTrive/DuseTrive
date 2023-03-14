@@ -485,7 +485,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 <!--Koodoss to https://github.com/VishwaGauravIn/github-twitter-card-embed-->
 
 
-<h1> 🐦 Latest Tweet</h1>
+<h1 align="center"> 🐦 Latest Tweet</h1> 
 <p align="center">
 <a href=""> 
 <img src="https://gtce.itsvg.in/api?username=DuseTrive&theme=chartreuse-dark">
