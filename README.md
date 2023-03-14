@@ -24,7 +24,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://discord.com/users/618256140710576139" alt="Discord" title="Discord"><img width="40px" src="https://www.iconsdb.com/icons/preview/green/discord-xxl.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;  
  <a href="https://www.linkedin.com/in/thisara-wijesooriya-03b304162/" alt="Linkedin" title="Linkedin"><img width="40px" src="https://www.iconsdb.com/icons/preview/green/linkedin-3-xxl.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://medium.com/@sahanwije" alt="Medium" title="Medium Blog"><img width="40px" src="https://icon-library.com/images/social-62-512_77264.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://medium.com/@sahanwije" alt="Medium" title="Medium Blog"><img width="40px" src="https://i.postimg.cc/3x67TH3Z/3.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
 
