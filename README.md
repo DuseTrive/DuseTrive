@@ -477,5 +477,17 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 <br>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=DuseTrive&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"></p>
-<hr>
+
 </details>
+<hr>
+<!--###########################################################################################################################################################-->
+
+<!--Koodoss to https://github.com/VishwaGauravIn/github-twitter-card-embed-->
+
+
+<h1> 🐦 Latest Tweet</h1>
+<p align="center">
+<a href=""> 
+<img src="https://gtce.itsvg.in/api?username=DuseTrive&theme=chartreuse-dark">
+</p> </a>
+<hr>
