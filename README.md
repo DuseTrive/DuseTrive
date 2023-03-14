@@ -34,7 +34,7 @@
 <h1>🙋‍♂️ About me</h1>
 
 As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutions and knowledge. With my unwavering determination and radical thinking, I excel at brainstorming and exploring new, fantastical ideas. I approach challenges with boundless enthusiasm and relish the opportunity to share my passion with others through exceptional communication skills.
-<br>
+<hr>
 <!--##############################################################################################################################################################-->
 <!--Project section-->
 
@@ -54,7 +54,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <p>
     <!-- add ai modules here-->  
   </p>
-  <br>
+  <hr>
 <!--###########################################################################################################################################################-->
 
 # 📺 Latest Youtube Videos
@@ -322,7 +322,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   </a>
 
   </details>
-
+<hr>
 <!--#####################################################################################################################################################################################-->
 
   <!-- Tech TOOOLS i USE -->
@@ -469,14 +469,13 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 <details>
 <summary> <h1>📊 GitHub Stats and Trophies</h1></summary><hr>
 
-<p>
+<p align="center">
 <a href="https://github.com/DuseTrive">
   <img src="https://github-readme-stats.vercel.app/api?username=DuseTrive&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"height="192px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuseTrive&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="192px">
 </a></p>
 <br>
 
-![](https://github-profile-trophy.vercel.app/?username=DuseTrive&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=DuseTrive&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"></p>
+<hr>
 </details>
