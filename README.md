@@ -53,9 +53,11 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <blockquote><p>This section showcases some of my latest AI developments, including machine learning models and computer vision applications that are changing the way we interact with technology. 🤖🧠</p></blockquote>
   <p>
     <!-- add ai modules here-->  
+  <a href="https://github.com/DuseTrive/Anomaly-based-NID">
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Anomaly-based-NID&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Deploting-traditional-ad-in-azure"></a>
   </p>
   <br>
-  <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;🔮 Other</h3>
+  <h3>&nbsp;&nbsp;&nbsp;&nbsp;🔮 Other</h3>
   <blockquote><p>Finally, this section contains some of my miscellaneous projects, including some experimental and innovative ideas that push the boundaries of what's possible with technology. 🌟💡</p></blockquote>
   <p>
     <!-- add other project details here -->
