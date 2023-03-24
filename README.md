@@ -334,7 +334,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <div>
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;🖥️ Operating Systems</h3>
     <blockquote><p>Here are some of the operating systems that I use for my projects and daily work:</p></blockquote>
-    <p align="left">
+    <p align="center">
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img width="40px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/windows-512.png" title="Windows" alt="Windows">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -362,7 +362,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <div>
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;🛡️ Blue Team Tools</h3>
     <blockquote><p>These are some of the blue team tools that I use for security monitoring and incident response:</p></blockquote>
-    <p align="left">
+    <p align="center">
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img width="40px" src="https://yt3.googleusercontent.com/ytc/AL5GRJUrRbNS4b0tuCnFhoIeENDJCmBp1HoUnv4gE8lmRA=s900-c-k-c0x00ffffff-no-rj" title="Splink"                 alt="Splunk">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -390,7 +390,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <div>
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;🔴 Red Team Tools</h3>
     <blockquote><p>These are some of the red team tools that I use for penetration testing and ethical hacking:</p></blockquote>
-    <p align="left">
+    <p align="center">
     &nbsp;&nbsp;&nbsp;
       <img width="50px" src="https://img.icons8.com/color/256/metasploit.png" title="Metasploit" alt="Metasploit">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -418,7 +418,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <div>
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;📜 Scripting, Programming and Markup Languages</h3>
     <blockquote><p>These are the Programming languages I use for automation and other tasks.</p></blockquote>
-    <p align="left">
+    <p align="center">
     &nbsp;&nbsp;&nbsp;
       <img width="45px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" title="Python" alt="Python">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -426,6 +426,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="40px" src="https://img.icons8.com/fluency/256/powershell.png" title="Powershell" alt="Powershell">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="40px" src="https://img.icons8.com/color/256/css3.png" alt="css" title="CSS">
       <img width="40px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="HTML" title="HTML">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="45px" src="https://img.icons8.com/fluency/256/r-project.png" title="R language" alt="R language">
@@ -433,13 +434,16 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
       <img width="45px" src="https://img.icons8.com/nolan/256/lua-language.png" title="Lua" alt="Lua">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="50px" src="https://img.icons8.com/officel/256/php-logo.png" title="PHP" alt="PHP">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://img.icons8.com/color/256/javascript.png" title="JS" alt="JS">
     </p>
    </div> 
   <hr>
+  <!--other-->
   <div>
     <h3>&nbsp;&nbsp;&nbsp;&nbsp;🌟 Other</h3>
     <blockquote><p>These are other tools and technologies that I have experience with.</p></blockquote>
-    <p align="left">
+    <p align="center">
     &nbsp;&nbsp;&nbsp;
       <img width="50px" src="https://img.icons8.com/fluency/256/old-vmware-logo.png" title="VMware" alt="VMware">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -460,6 +464,16 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
       <img width="45px" src="https://img.icons8.com/fluency/256/grafana.png" title="Grafana" alt="Grafana">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="50px" src="https://img.icons8.com/color/256/docker.png" title="Docker" alt="Docker">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://img.icons8.com/color/256/visual-studio-code-2019.png" title="vsCODE" alt="vsCODE">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://img.icons8.com/fluency/256/node-js.png" title="Node.js" alt="Node.js">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://img.icons8.com/color/256/npm.png" title="NPM" alt="NPM">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://img.icons8.com/color/256/figma.png" title="figma" alt="figma">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_477db83f729d63210139ec7cd29c1351/render-render.png" title="Render.com" alt="Render.com">
     </p>
    </div> 
    </details> <hr>
@@ -467,7 +481,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 <!--#####################################################################################################-->
 
 <details>
-<summary> <h1>📊 GitHub Stats and Trophies</h1></summary><hr>
+<summary> <h1>📊 GitHub Stats and Trophies</h1></summary>
 
 <p align="center">
 <a href="https://github.com/DuseTrive">
