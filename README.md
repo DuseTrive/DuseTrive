@@ -24,7 +24,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://discord.com/users/618256140710576139" alt="Discord" title="Discord"><img width="40px" src="https://www.iconsdb.com/icons/preview/green/discord-xxl.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;  
  <a href="https://www.linkedin.com/in/thisara-wijesooriya-03b304162/" alt="Linkedin" title="Linkedin"><img width="40px" src="https://www.iconsdb.com/icons/preview/green/linkedin-3-xxl.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://medium.com/@sahanwije" alt="Medium" title="Medium Blog"><img width="40px" src="https://icon-library.com/images/social-62-512_77264.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://medium.com/@sahanwije" alt="Medium" title="Medium Blog"><img width="40px" src="https://i.postimg.cc/3x67TH3Z/3.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
 
@@ -53,7 +53,18 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <blockquote><p>This section showcases some of my latest AI developments, including machine learning models and computer vision applications that are changing the way we interact with technology. 🤖🧠</p></blockquote>
   <p>
     <!-- add ai modules here-->  
+  <a href="https://github.com/DuseTrive/Anomaly-based-NID">
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Anomaly-based-NID&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Deploting-traditional-ad-in-azure"></a>
   </p>
+  <br>
+  <h3>&nbsp;&nbsp;&nbsp;&nbsp;🔮 Other</h3>
+  <blockquote><p>Finally, this section contains some of my miscellaneous projects, including some experimental and innovative ideas that push the boundaries of what's possible with technology. 🌟💡</p></blockquote>
+  <p>
+    <!-- add other project details here -->
+  <a href="https://github.com/DuseTrive/HTB-Status-Web">
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=HTB-Status-Web&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Deploting-traditional-ad-in-azure"></a
+  </p> 
+</details>
   <hr>
 <!--###########################################################################################################################################################-->
 
@@ -64,7 +75,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 <a href="https://www.youtube.com/watch?v=novMWrpmtEg">
   <img src="https://img.youtube.com/vi/novMWrpmtEg/0.jpg" width="300px" alt="YouTube video demonstrating step-by-step" style="object-fit: cover; object-position: 50% 0; height: 50%;"><br><p>Deploying Traditional Active Directory on Azure - Step-by-Step Guide</p>
 </a>
-<hr>
+<br><hr>
 
 <!--###########################################################################################################################################################-->
 
@@ -77,7 +88,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 <li> <a href="https://medium.com/@sahanwije/deploying-ubuntu-operating-system-in-vmware-for-complete-beginners-b356f0633234">Deploying Ubuntu operating system in VMware. — For complete beginners</a></li>
 </ul>
 
-<hr>
+<br><hr>
 <!--###########################################################################################################################################################-->
 <!--Achivemnts-->
 
