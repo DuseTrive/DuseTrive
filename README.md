@@ -437,7 +437,8 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="40px" src="https://img.icons8.com/fluency/256/powershell.png" title="Powershell" alt="Powershell">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img width="40px" src="https://img.icons8.com/color/256/css3.png" alt="css" title="CSS">
+      <img width="50px" src="https://img.icons8.com/color/256/css3.png" alt="css" title="CSS">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="40px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="HTML" title="HTML">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="45px" src="https://img.icons8.com/fluency/256/r-project.png" title="R language" alt="R language">
