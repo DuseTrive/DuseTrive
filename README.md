@@ -501,8 +501,6 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
       <img width="50px" src="https://numpy.org/images/logo.svg" title="numpy" alt="numpy">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="50px" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" title="seaborn" alt="seaborn">
-      
-
     </p>
    </div> 
    </details> <hr>
