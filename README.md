@@ -46,6 +46,8 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     <!-- add cloud, os and other similar in here-->
     <a href="https://github.com/DuseTrive/Deploying-Traditional-Active-Directory-in-Azure">
       <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Deploying-Traditional-Active-Directory-in-Azure&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Deploting-traditional-ad-in-azure"></a>
+  <a href="https://github.com/DuseTrive/Azure-Active-Directory">
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Azure-Active-Directory&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Deploting-traditional-ad-in-azure"></a>
   </p>
 
   <!-- AI developing project -->
