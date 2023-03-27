@@ -486,6 +486,20 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
       <img width="50px" src="https://img.icons8.com/color/256/figma.png" title="figma" alt="figma">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="50px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_477db83f729d63210139ec7cd29c1351/render-render.png" title="Render.com" alt="Render.com">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="jupyter_notebook" alt="jupyter_notebook">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="scikit_learn" alt="scikit_learn">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://pandas.pydata.org/static/img/pandas_mark.svg" title="Pandas" alt="Pandas">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/128px-Created_with_Matplotlib-logo.svg.png?20150219130408" title="Matplotlib" alt="Matplotlib">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://numpy.org/images/logo.svg" title="numpy" alt="numpy">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="50px" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" title="seaborn" alt="seaborn">
+      
+
     </p>
    </div> 
    </details> <hr>
