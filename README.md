@@ -77,10 +77,28 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 
 <blockquote><p>🎬 Hey guys, check out my latest YouTube video! It's packed with tips and tricks to help you become a pro in no time. 👍🔔</p></blockquote><br>
 
-<a href="https://www.youtube.com/watch?v=novMWrpmtEg">
-  <img src="https://img.youtube.com/vi/novMWrpmtEg/0.jpg" width="300px" alt="YouTube video demonstrating step-by-step" style="object-fit: cover; object-position: 50% 0; height: 50%;"><br><p>Deploying Traditional Active Directory on Azure - Step-by-Step Guide</p>
-</a>
-<br><hr>
+<table align="center" border="0">
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=novMWrpmtEg">
+        <img src="https://img.youtube.com/vi/novMWrpmtEg/0.jpg" width=100% alt="YouTube video demonstrating step-by-step" style="object-fit: cover; object-position: 50% 0; height: 50%;">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=fRC-G0UqOMA">
+        <img src="https://img.youtube.com/vi/fRC-G0UqOMA/0.jpg" width=100% alt="YouTube video demonstrating step-by-step" style="object-fit: cover; object-position: 50% 0; height: 50%;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Deploying Traditional Active Directory on Azure - Step-by-Step Guide</p>
+    </td>
+    <td>
+      <p>Connecting Windows Active Directory to Azure Active Directory</p>
+    </td>
+  </tr>
+</table>
 
 <!--###########################################################################################################################################################-->
 
