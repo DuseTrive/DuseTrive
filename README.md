@@ -67,7 +67,11 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <p>
     <!-- add other project details here -->
   <a href="https://github.com/DuseTrive/HTB-Status-Web">
-      <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=HTB-Status-Web&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Deploting-traditional-ad-in-azure"></a
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=HTB-Status-Web&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Deploting-traditional-ad-in-azure"></a>
+  <a href="https://github.com/DuseTrive/
+Kaspersky_attachmap_screensaver">
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=
+Kaspersky_attachmap_screensaver&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Deploting-traditional-ad-in-azure"></a>
   </p> 
 </details>
   <hr>
