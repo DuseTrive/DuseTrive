@@ -105,7 +105,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 
 # 📚 Blog Posts
 
-<blockquote><p>📝 Check out my latest blog post on cybersec, cloud, and AI! From industry trends to personal experiences, my posts cover a wide range of topics that are sure to keep you engaged. Leave a comment and let's chat! 💬🤗</p></blockquote><br>
+<blockquote><p>📝 Check out my latest blog post on cybersec, cloud, and AI! From industry trends to personal experiences, my posts cover a wide range of topics that are sure to keep you engaged. Leave a comment and let's chat! 💬🤗</p></blockquote>
 
 <ul><b>
 <li><a href="https://sahanwije.medium.com/connecting-windows-active-directory-to-azure-active-directory-fb03e721917b">Connecting Windows Active Directory to Azure Active Directory</a></li>
