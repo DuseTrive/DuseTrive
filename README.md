@@ -107,13 +107,13 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 
 <blockquote><p>📝 Check out my latest blog post on cybersec, cloud, and AI! From industry trends to personal experiences, my posts cover a wide range of topics that are sure to keep you engaged. Leave a comment and let's chat! 💬🤗</p></blockquote><br>
 
-<ul>
+<ul><b>
 <li><a href="https://sahanwije.medium.com/connecting-windows-active-directory-to-azure-active-directory-fb03e721917b">Connecting Windows Active Directory to Azure Active Directory</a></li>
 <li><a href="https://medium.com/@sahanwije/deploying-traditional-active-directory-in-azure-9314166433a0">Deploying Traditional Active Directory in Azure</a></li>
 <li> <a href="https://medium.com/@sahanwije/deploying-ubuntu-operating-system-in-vmware-for-complete-beginners-b356f0633234">Deploying Ubuntu operating system in VMware. — For complete beginners</a></li>
-</ul>
+</ul></b>
 
-<br><hr>
+<hr>
 <!--###########################################################################################################################################################-->
 <!--Achivemnts-->
 
