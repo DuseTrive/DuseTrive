@@ -58,8 +58,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 <a href="https://github.com/DuseTrive/Anomaly-Based-NID-using-svm">
       <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Anomaly-Based-NID-using-svm&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Anomaly-Based-NID-using-svm"></a> 
   <a href="https://github.com/DuseTrive/Anomaly-Based-NID-using-LSTM">
-      <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Anomaly-Based-NID-using-LSTM&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Anomaly-Based-NID-using-LSTM
-"></a>
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Anomaly-Based-NID-using-LSTM&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Anomaly-Based-NID-using-LSTM"></a>
     </p>
   </p>
   
