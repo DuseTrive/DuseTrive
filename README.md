@@ -47,7 +47,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     <a href="https://github.com/DuseTrive/Deploying-Traditional-Active-Directory-in-Azure">
       <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Deploying-Traditional-Active-Directory-in-Azure&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Deploting-traditional-ad-in-azure"></a>
   <a href="https://github.com/DuseTrive/Azure-Active-Directory">
-      <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Azure-Active-Directory&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Deploting-traditional-ad-in-azure"></a>
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Azure-Active-Directory&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Connecting Windows Active Directory to Azure Active Directory"></a>
   </p>
 
   <!-- AI developing project -->
@@ -56,9 +56,10 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <p>
     <!-- add ai modules here-->  
 <a href="https://github.com/DuseTrive/Anomaly-Based-NID-using-svm">
-      <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Anomaly-Based-NID-using-svm&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Deploting-traditional-ad-in-azure"></a> 
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Anomaly-Based-NID-using-svm&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Anomaly-Based-NID-using-svm"></a> 
   <a href="https://github.com/DuseTrive/Anomaly-Based-NID-using-LSTM">
-      <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Anomaly-Based-NID-using-LSTM&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Deploting-traditional-ad-in-azure"></a>
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Anomaly-Based-NID-using-LSTM&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Anomaly-Based-NID-using-LSTM
+"></a>
     </p>
   </p>
   
@@ -67,8 +68,8 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <p>
     <!-- add other project details here -->
   <a href="https://github.com/DuseTrive/HTB-Status-Web">
-      <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=HTB-Status-Web&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Deploting-traditional-ad-in-azure"></a>
-  <a href="https://github.com/DuseTrive/Kaspersky_attachmap_screensaver"><img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Kaspersky_attachmap_screensaver&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Deploting-traditional-ad-in-azure"></a>
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=HTB-Status-Web&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="HTB-Status-Web"></a>
+  <a href="https://github.com/DuseTrive/Kaspersky_attachmap_screensaver"><img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Kaspersky_attachmap_screensaver&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Kaspersky_attachmap_screensaver"></a>
   </p> 
 </details>
   <hr>
