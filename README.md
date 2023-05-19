@@ -297,6 +297,25 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     &nbsp;&nbsp;&nbsp;&nbsp;
   </a></p><br>
 
+<!-- ===========ISC2 Learnings======= -->
+   <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;<img width=37px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/%28ISC%29%C2%B2_logo_%28vectorized%29.svg/1200px-%28ISC%29%C2%B2_logo_%28vectorized%29.svg.png"> ISC2 Learning</h3>
+  <blockquote><p>I have attained certifications and practical expertise in cloud computing, cybersecurity, and other vital IT domains through ISC2. My achievements on ISC2 demonstrate my ongoing commitment to continuous learning and proficiency in tackling dynamic industry challenges. 🎓💪</p></blockquote>
+  <br>
+  <p align="center">
+    <!-- add ISC2 Trophies here -->
+    <img width="90px" src="https://learn.isc2.org/d2l/awards/v1/image/6606?imageId=984075&size=200" title="Official CC Course Completion Certificate" alt="Official CC Course Completion Certificate" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="85px" src="https://learn.isc2.org/d2l/awards/v1/image/6606?imageId=984667&size=200" title="Security Principles (CC)" alt="Security Principles (CC)" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="85px" src="https://learn.isc2.org/d2l/awards/v1/image/6606?imageId=984668&size=200" title="Business Continuity (BC), Disaster Recovery (DR) & Incident Response Concepts" alt="Business Continuity (BC), Disaster Recovery (DR) & Incident Response Concepts" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="85px" src="https://learn.isc2.org/d2l/awards/v1/image/6606?imageId=984669&size=200" title="Access Control Concepts" alt="Access Control Concepts" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="85px" src="https://learn.isc2.org/d2l/awards/v1/image/6606?imageId=984670&size=200" title="Network Security" alt="Network Security" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="85px" src="https://learn.isc2.org/d2l/awards/v1/image/6606?imageId=984671&size=200" title="Security Operations (CC)" alt="Security Operations (CC)" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+  </p><br>
+
   <!-- Google Learning -->
   <a href="https://www.cloudskillsboost.google/public_profiles/ea79f59e-332e-49f0-b08c-3f48163fece5" title="Google cloud skill boost" style="color: inherit; text-decoration: none;">
 
@@ -312,7 +331,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     <img width="149px" height="100px"src="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D" title="Create and Manage Cloud Resources" alt="Create and Manage Cloud Resources" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
     &nbsp;&nbsp;&nbsp;&nbsp;
   </p>
-  </a>
+  </a><br>
 
   <!-- Hack The Box -->
   <a href="https://app.hackthebox.com/profile/379163" title="Hack the box" style="color: inherit; text-decoration: none;">
@@ -338,7 +357,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <p>
     <!-- add Hack The Box Badges here -->
   </p>
-  </a>
+  </a><br>
 
   <!-- PicoCTF -->
   <a href="https://play.picoctf.org/users/DuseTrive" title="PicoCTF" style="color: inherit; text-decoration: none;">
@@ -363,7 +382,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 <hr>
 <!--#####################################################################################################################################################################################-->
 
-  <!-- Tech TOOOLS i USE -->
+  <!--================ Tech TOOOLS i USE =========================================-->
 
 <details>
   <summary><h1>🖥️ Tech I Use</h1></summary>
@@ -392,7 +411,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="50px" src="https://wiki.centos.org/ArtWork/Brand/Logo?action=AttachFile&do=get&target=centos-symbol.svg" title="CentOS" alt="CentOS">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" title="Archlinux" alt="Archlinux">
+      <img width="40px" src="https://th.bing.com/th/id/R.ca1e3cbffbdb38fad2f932b9b83827a8?rik=3LKBfalCo3IXMA&riu=http%3a%2f%2fwiki.installgentoo.com%2fimages%2ff%2ff9%2fArch-linux-logo.png&ehk=zpCvsmXM4LTJwoWXpbb0MUPwP1CF8qQxIflAvYUr2CE%3d&risl=&pid=ImgRaw&r=0" title="Archlinux" alt="Archlinux">
     </p>
   </div>
   <hr>
@@ -416,11 +435,13 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="50px" src="https://d7umqicpi7263.cloudfront.net/img/product/9d4ccf9c-09cb-4a76-84da-e50fca281e58/108df64d-c341-461d-a9b4-b5065b45a7d1.png" title="Autopsy" alt="Autopsy">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img width="45px" src="https://pbs.twimg.com/profile_images/1365268329565462532/DWelm4tx_400x400.png" title="ANY RUN" alt="ANY RUN">
+      <img width="45px" src="https://th.bing.com/th/id/OIP.m5K8IDyZ9MhKBH964RQmdgAAAA?pid=ImgDet&rs=1" title="ANY RUN" alt="ANY RUN">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="45px" src="https://cdn11.bigcommerce.com/s-2c9am5e92r/images/stencil/1280x1280/products/8618/4463/AccessData-FTK__48816.1562159340.png?c=2" title="FTK toolkit" alt="FTK toolkit">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="45px" src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" title="Nikto" alt="Nikto">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="80px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_93634b43ecbeeff66af23b2ff1b1a68c/wazuh-the-open-source-security-platform.png" title="wazuh" alt="wazuh">
     </p>
   </div>
   <hr>
@@ -475,6 +496,8 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
       <img width="50px" src="https://img.icons8.com/officel/256/php-logo.png" title="PHP" alt="PHP">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img width="50px" src="https://img.icons8.com/color/256/javascript.png" title="JS" alt="JS">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="47x" src="https://styles.redditmedia.com/t5_2rs9m/styles/communityIcon_obszzg8ln9u31.png" title="VBS" alt="VBS">
     </p>
    </div> 
   <hr>
