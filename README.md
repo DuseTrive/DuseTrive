@@ -332,8 +332,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     <td>
     <img width="90px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74001100" title="Certified in Cybersecurity (CC): Security Governance, Policies, & Controls" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
     <td>
-    <tr>
-    </table></p><br>
+        </table></p><br>
 <!-- ===========ISC2 Learnings======= -->
    <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;<img width=37px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/%28ISC%29%C2%B2_logo_%28vectorized%29.svg/1200px-%28ISC%29%C2%B2_logo_%28vectorized%29.svg.png"> ISC2 Learning</h3>
   <blockquote><p>I have attained certifications and practical expertise in cybersecurity, and other vital IT domains through ISC2. My achievements on ISC2 demonstrate my ongoing commitment to continuous learning and proficiency in tackling dynamic industry challenges. 🎓💪</p></blockquote>
