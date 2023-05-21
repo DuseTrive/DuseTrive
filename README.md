@@ -319,7 +319,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 " style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
     <img width="95px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73997606" title="Learning from Failure and Success" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
     <img width="95px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73289161" title="Expert Insights on Setting and Managing Priorities" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
-    <td>
+    </td>
     </tr>
     </table></p><br>
 <!-- ===========ISC2 Learnings======= -->
