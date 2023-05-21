@@ -303,7 +303,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <br>
   <p align="center">
     <!-- add ACS Trophies here -->
-    <table align="Center">
+    <table align="Center" boarder=0>
     <tr>
     <td>
     <img width="205px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73998231" title=" Setting up your Individual & Team Learnings credential" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
