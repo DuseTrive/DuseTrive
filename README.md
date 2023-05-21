@@ -297,9 +297,34 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     &nbsp;&nbsp;&nbsp;&nbsp;
   </a></p><br>
 
+  <!-- ===========ACS Learnings======= -->
+   <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;<img width=37px src="https://cdn2.percipio.com/public/us/custom-content/24ef9fea-b4a9-44d1-a104-c8bbff89fa3c/public/images/saved/a69a96e8-c358-4eb8-9473-3736234cf1cf/ACS-logo-120X70.png"> ACS Learning</h3>
+  <blockquote><p>I have completed ACS learning programs to enhance my knowledge and practical skills in cloud computing, cybersecurity, and other essential IT domains. These programs provided me with certifications and hands-on expertise validated by ACS. My accomplishments within ACS showcase my dedication to continuous learning and my ability to effectively address the ever-evolving challenges of the industry. 🏆🔒</p></blockquote>
+  <br>
+  <p align="center">
+    <!-- add ACS Trophies here -->
+    <table align="Center">
+    <tr>
+    <td>
+    <img width="205px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73998231" title=" Setting up your Individual & Team Learnings credential" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+    </td>
+    <td>
+    <img width="150px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73998232" title="Journey Complete" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+    </td><td>
+    <img width="95px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73995974" title=" Contributing as a Virtual Team Member" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+    <img width="95px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73995060" title=" " style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+    <img width="95px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73996969" title="Building Customer Relationships in a Virtual Environment
+ " style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+    <img width="95px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73998230" title="Becoming a Continuous Learner
+" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+    <img width="95px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73997606" title="Learning from Failure and Success" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+    <img width="95px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73289161" title="Expert Insights on Setting and Managing Priorities" style="filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.7));">
+    <td>
+    </tr>
+    </table></p><br>
 <!-- ===========ISC2 Learnings======= -->
    <hr><h3>&nbsp;&nbsp;&nbsp;&nbsp;<img width=37px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/%28ISC%29%C2%B2_logo_%28vectorized%29.svg/1200px-%28ISC%29%C2%B2_logo_%28vectorized%29.svg.png"> ISC2 Learning</h3>
-  <blockquote><p>I have attained certifications and practical expertise in cloud computing, cybersecurity, and other vital IT domains through ISC2. My achievements on ISC2 demonstrate my ongoing commitment to continuous learning and proficiency in tackling dynamic industry challenges. 🎓💪</p></blockquote>
+  <blockquote><p>I have attained certifications and practical expertise in cybersecurity, and other vital IT domains through ISC2. My achievements on ISC2 demonstrate my ongoing commitment to continuous learning and proficiency in tackling dynamic industry challenges. 🎓💪</p></blockquote>
   <br>
   <p align="center">
     <!-- add ISC2 Trophies here -->
