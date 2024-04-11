@@ -69,6 +69,7 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
   <blockquote><p>Finally, this section contains some of my miscellaneous projects, including some experimental and innovative ideas that push the boundaries of what's possible with technology. 🌟💡</p></blockquote>
   <p>
     <!-- add other project details here -->
+  <a href="https://github.com/DuseTrive/Digital-Clock"><img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=Digital-Clock&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="Digital-Clock"></a>
   <a href="https://github.com/DuseTrive/System-Info-Reporter"><img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=System-Info-Reporter&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="System-Info-Reporter"></a>
   <a href="https://github.com/DuseTrive/HTB-Status-Web">
       <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=dusetrive&repo=HTB-Status-Web&theme=dark&bg_color=000000&title_color=0AD51B&hide_border=true&icon_color=F8D866&text_color=FFFFFF" alt="HTB-Status-Web"></a>
@@ -117,11 +118,11 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
 <li> <a href="https://medium.com/@sahanwije/deploying-ubuntu-operating-system-in-vmware-for-complete-beginners-b356f0633234">Deploying Ubuntu operating system in VMware. — For complete beginners</a></li>
 </ul></b>
 
-<hr>
+<hr> <br>
 <!--###########################################################################################################################################################-->
 <!--Achivemnts-->
 
-<details>
+
   <summary><h1>🏆 Achievements</h1></summary>
   <hr>
   
@@ -415,8 +416,6 @@ As an ardent cybersecurity fanatic, I'm driven by a quest for innovative solutio
     <!-- add PicoCTF details here -->
   </p>
   </a>
-
-  </details>
 <hr>
 <!--#####################################################################################################################################################################################-->
 
