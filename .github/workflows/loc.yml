@@ -1,0 +1,33 @@
+name: loc
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  count:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Count lines of code across public repos
+        run: |
+          sudo apt-get -qq update && sudo apt-get -qq install -y cloc jq
+          mkdir -p /tmp/repos && cd /tmp/repos
+          # ponytail: public non-fork repos only, first 100; paginate if you ever pass 100 repos
+          curl -s "https://api.github.com/users/DuseTrive/repos?per_page=100&type=owner" \
+            | jq -r '.[] | select(.fork==false) | .clone_url' > repos.txt
+          while read -r r; do git clone --depth 1 -q "$r" || true; done < repos.txt
+          TOTAL=$(cloc . --json --quiet 2>/dev/null | jq '.SUM.code // 0')
+          # thousands separator for the badge
+          PRETTY=$(printf "%'d" "$TOTAL" | sed 's/,/%2C/g')
+          echo "PRETTY=$PRETTY" >> "$GITHUB_ENV"
+      - name: Write badge into README
+        run: |
+          BADGE="<img src=\"https://img.shields.io/badge/total_lines_of_code-${PRETTY}-101024?style=for-the-badge\&labelColor=0f0f22\&color=22d3ee\" alt=\"lines of code\">"
+          perl -0pi -e "s|<!--LOC-->.*?<!--/LOC-->|<!--LOC-->${BADGE}<!--/LOC-->|s" README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update LOC badge"
+          git push
