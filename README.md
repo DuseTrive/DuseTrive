@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7c3aed,50:22d3ee,100:0b0f1e&section=header&text=&fontSize=0" alt="" width="100%">
-
 <img src="assets/banner.svg" alt="DuseTrive" width="100%">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=520&lines=Cybersecurity+%C2%B7+Blue+%C3%97+Red;Active+Directory+in+the+cloud;ML+for+network+intrusion+detection;I+break+things%2C+then+document+the+fix" alt="taglines">
@@ -19,9 +17,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DuseTrive&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101024&title_color=22d3ee&icon_color=c4b5fd&text_color=9db0cf" width="440" alt="stats">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DuseTrive&layout=compact&theme=tokyonight&hide_border=true&bg_color=101024&title_color=22d3ee&text_color=9db0cf" width="330" alt="top languages">
 
-<img src="https://streak-stats.demolab.com?user=DuseTrive&theme=tokyonight&hide_border=true&background=101024&ring=22d3ee&fire=ff2d78&currStreakLabel=22d3ee" width="500" alt="streak">
-
-<!--LOC--><img src="https://img.shields.io/badge/total_lines_of_code-898089-101024?style=for-the-badge&labelColor=0f0f22&color=22d3ee" alt="lines of code"><!--/LOC-->
+<img src="https://streak-stats.demolab.com?user=DuseTrive&theme=tokyonight&hide_border=true&background=101024&ring=22d3ee&fire=ff2d78&currStreakLabel=22d3ee" width="500" alt="streak"> <!--LOC--><img src="https://img.shields.io/badge/total_lines_of_code-898089-101024?style=for-the-badge&labelColor=0f0f22&color=22d3ee" alt="lines of code"><!--/LOC-->
 
 ## 🚩 Rankings
 
@@ -82,7 +78,5 @@
 <img src="https://raw.githubusercontent.com/DuseTrive/DuseTrive/output/github-contribution-grid-snake-dark.svg" alt="contribution snake">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuseTrive&theme=tokyo-night&hide_border=true&bg_color=101024&color=9db0cf&line=22d3ee&point=ff2d78&area=true&area_color=1a1040" width="100%" alt="activity graph">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0b0f1e,50:22d3ee,100:7c3aed&section=footer&fontSize=0" alt="" width="100%">
 
 </div>
