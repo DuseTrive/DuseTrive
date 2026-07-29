@@ -16,12 +16,12 @@
 
 ## ⚡ Signal
 
-<img src="https://github-readme-stats.vercel.app/api?username=DuseTrive&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101024&title_color=22d3ee&icon_color=c4b5fd&text_color=9db0cf" width="440" alt="stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuseTrive&layout=compact&theme=tokyonight&hide_border=true&bg_color=101024&title_color=22d3ee&text_color=9db0cf" width="330" alt="top languages">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DuseTrive&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101024&title_color=22d3ee&icon_color=c4b5fd&text_color=9db0cf" width="440" alt="stats">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DuseTrive&layout=compact&theme=tokyonight&hide_border=true&bg_color=101024&title_color=22d3ee&text_color=9db0cf" width="330" alt="top languages">
 
 <img src="https://streak-stats.demolab.com?user=DuseTrive&theme=tokyonight&hide_border=true&background=101024&ring=22d3ee&fire=ff2d78&currStreakLabel=22d3ee" width="500" alt="streak">
 
-<!--LOC--><img src="https://img.shields.io/badge/total_lines_of_code-898089-101024?style=for-the-badge&labelColor=0f0f22&color=22d3ee" alt="lines of code"><!--/LOC-->
+<!--LOC--><img src="https://img.shields.io/badge/total_lines_of_code-counting…-101024?style=for-the-badge&labelColor=0f0f22&color=22d3ee" alt="lines of code"><!--/LOC-->
 
 ## 🚩 Rankings
 
@@ -37,19 +37,16 @@
 ## 📝 Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting Windows Active Directory to Azure Active Directory](https://sahanwije.medium.com/connecting-windows-active-directory-to-azure-active-directory-fb03e721917b?source=rss-264347fd4d15------2)
-- [Deploying Traditional Active Directory in Azure](https://sahanwije.medium.com/deploying-traditional-active-directory-in-azure-9314166433a0?source=rss-264347fd4d15------2)
-- [Deploying Ubuntu operating system in VMware. — For complete beginners](https://sahanwije.medium.com/deploying-ubuntu-operating-system-in-vmware-for-complete-beginners-b356f0633234?source=rss-264347fd4d15------2)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
 ## ◈ Featured builds
 
-<a href="https://github.com/DuseTrive/Anomaly-Based-NID-using-LSTM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DuseTrive&repo=Anomaly-Based-NID-using-LSTM&theme=tokyonight&hide_border=true&bg_color=101024&title_color=22d3ee" width="400" alt="NID LSTM"></a>
-<a href="https://github.com/DuseTrive/Anomaly-Based-NID-using-svm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DuseTrive&repo=Anomaly-Based-NID-using-svm&theme=tokyonight&hide_border=true&bg_color=101024&title_color=22d3ee" width="400" alt="NID SVM"></a>
-<a href="https://github.com/DuseTrive/Deploying-Traditional-Active-Directory-in-Azure"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DuseTrive&repo=Deploying-Traditional-Active-Directory-in-Azure&theme=tokyonight&hide_border=true&bg_color=101024&title_color=22d3ee" width="400" alt="AD in Azure"></a>
-<a href="https://github.com/DuseTrive/HTB-Status-Web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DuseTrive&repo=HTB-Status-Web&theme=tokyonight&hide_border=true&bg_color=101024&title_color=22d3ee" width="400" alt="HTB Status Web"></a>
+<a href="https://github.com/DuseTrive/Anomaly-Based-NID-using-LSTM"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DuseTrive&repo=Anomaly-Based-NID-using-LSTM&theme=tokyonight&hide_border=true&bg_color=101024&title_color=22d3ee" width="400" alt="NID LSTM"></a>
+<a href="https://github.com/DuseTrive/Anomaly-Based-NID-using-svm"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DuseTrive&repo=Anomaly-Based-NID-using-svm&theme=tokyonight&hide_border=true&bg_color=101024&title_color=22d3ee" width="400" alt="NID SVM"></a>
+<a href="https://github.com/DuseTrive/Deploying-Traditional-Active-Directory-in-Azure"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DuseTrive&repo=Deploying-Traditional-Active-Directory-in-Azure&theme=tokyonight&hide_border=true&bg_color=101024&title_color=22d3ee" width="400" alt="AD in Azure"></a>
+<a href="https://github.com/DuseTrive/HTB-Status-Web"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DuseTrive&repo=HTB-Status-Web&theme=tokyonight&hide_border=true&bg_color=101024&title_color=22d3ee" width="400" alt="HTB Status Web"></a>
 
 ## 🛠 Arsenal
 
