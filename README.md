@@ -21,7 +21,7 @@
 
 <img src="https://streak-stats.demolab.com?user=DuseTrive&theme=tokyonight&hide_border=true&background=101024&ring=22d3ee&fire=ff2d78&currStreakLabel=22d3ee" width="500" alt="streak">
 
-<!--LOC--><img src="https://img.shields.io/badge/total_lines_of_code-counting…-101024?style=for-the-badge&labelColor=0f0f22&color=22d3ee" alt="lines of code"><!--/LOC-->
+<!--LOC--><img src="https://img.shields.io/badge/total_lines_of_code-898089-101024?style=for-the-badge&labelColor=0f0f22&color=22d3ee" alt="lines of code"><!--/LOC-->
 
 ## 🚩 Rankings
 
