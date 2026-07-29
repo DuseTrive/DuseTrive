@@ -1,8 +1,13 @@
 name: ping
 on:
+  schedule:
+    - cron: "0 1 * * *"
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   ping:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - run: echo pong
