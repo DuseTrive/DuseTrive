@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="DuseTrive" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=520&lines=Cybersecurity+%C2%B7+Blue+%C3%97+Red;Active+Directory+in+the+cloud;ML+for+network+intrusion+detection;I+break+things%2C+then+document+the+fix" alt="taglines"> <!--LOC--><img src="https://img.shields.io/badge/total_lines_of_code-898089-101024?style=for-the-badge&labelColor=0f0f22&color=22d3ee" alt="lines of code"><!--/LOC-->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=520&lines=Cybersecurity+%C2%B7+Blue+%C3%97+Red;Active+Directory+in+the+cloud;ML+for+network+intrusion+detection;I+break+things%2C+then+document+the+fix" alt="taglines"> <!--LOC--><img src="https://img.shields.io/badge/total_lines_of_code-898086-101024?style=for-the-badge&labelColor=0f0f22&color=22d3ee" alt="lines of code"><!--/LOC-->
 
 <p>
   <a href="https://x.com/DuseTrive"><img src="https://img.shields.io/badge/X-@DuseTrive-0b0f1e?style=flat-square&logo=x&logoColor=22d3ee" alt="X"></a>
